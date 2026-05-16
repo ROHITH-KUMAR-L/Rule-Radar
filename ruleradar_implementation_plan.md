@@ -34,7 +34,8 @@ React 18 + Vite 5
 ├── Styling: Tailwind CSS v3 + shadcn/ui components
 ├── PWA: vite-plugin-pwa + Workbox
 ├── i18n: i18next + react-i18next (English, Hindi, Marathi, Tamil, Arabic)
-└── Database: Supabase (PostgreSQL with PostGIS)
+├── Database: Supabase (PostgreSQL with PostGIS)
+└── AI Assistant: Google Gemini API (for real-time chatbot)
 ```
 
 ---
@@ -71,6 +72,9 @@ rulerradar/
 │   │   │   ├── LocationBanner.jsx   # Active zone indicator
 │   │   │   ├── LocationPicker.jsx   # Manual city/zone selection
 │   │   │   └── ZoneCrossAlert.jsx   # Toast notification
+│   │   ├── Chat/
+│   │   │   ├── ChatBot.jsx          # AI assistant floating component
+│   │   │   └── ChatMessage.jsx      # Individual chat bubble
 │   │   └── ui/                      # shadcn/ui components (auto-generated)
 │   ├── stores/
 │   │   ├── locationStore.js         # Zustand: GPS, current zone
@@ -79,7 +83,8 @@ rulerradar/
 │   │   ├── geolocation.js           # GPS API wrapper
 │   │   ├── nominatim.js             # Reverse geocoding calls
 │   │   ├── geofence.js              # Turf.js logic
-│   │   └── supabase.js              # Supabase client setup
+│   │   ├── supabase.js              # Supabase client setup
+│   │   └── gemini.js                # Gemini API integration
 │   ├── data/                        # Initial mock data before Supabase
 │   │   ├── zones/
 │   │   └── fines/
@@ -147,11 +152,12 @@ rulerradar/
 - Update `rulesStore` and Map components to fetch data from Supabase instead of local files.
 - **Milestone:** App pulls dynamic data from the cloud backend.
 
-**Day 10: Features & Calculation**
+**Day 10: Features, Calculation & AI Chatbot**
 - Implement `FineCalculator` (select multiple offenses to see total cost).
 - Implement `ZoneCrossAlert` (toast notification when GPS moves from one zone to another).
+- Build the `ChatBot` component and integrate the **Google Gemini API** for real-time Q&A about traffic rules. Provide context (current zone, active rules) to the AI for accurate answers.
 - Ensure manual location picking works smoothly for testing/demo purposes.
-- **Milestone:** All core feature requirements met.
+- **Milestone:** All core feature requirements and AI integration met.
 
 **Day 11-12: PWA, Offline Capability, and i18n Complete**
 - Configure `vite-plugin-pwa` for offline caching of assets and Supabase responses (Workbox).

@@ -1,0 +1,275 @@
+[
+    {
+        "id": "ea5ba500-1321-45cb-a73b-5009ae1e0e5b",
+        "offense_name_en": "Contravention of any provision of the Motor Vehicles Act, 1988 or of any rules made thereunder if no penalty is provided for the offence under the said Act.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "2c31f78d-70f9-4c44-a193-ba6767edc379",
+        "offense_name_en": "Failure to renew registration of Motor Vehicle.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "d5af18c9-ca69-4389-b245-f3ddc08cccfd",
+        "offense_name_en": "Failure to apply for re-registration within 12 months on removal of motor vehicle from other State.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "b53d0a84-ce29-4abd-a090-4c0c859be576",
+        "offense_name_en": "Failure of the transferor or transferee to report about transfer of ownership of motor vehicle within prescribed period.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "eddde871-c1c8-4294-a27b-cbd1b2ff6e63",
+        "offense_name_en": "Willfully removing, altering, defacing or tampering with traffic signs.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "a7cd0608-5c3f-4c10-9b66-ad343eb32eab",
+        "offense_name_en": "Violation of mandatory traffic signs.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "057a25da-51d7-46a7-a830-10d4bd112e30",
+        "offense_name_en": "Leaving the motor vehicle in dangerous position at public place.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "2aa665ba-6e05-4941-bbe1-40a979f51869",
+        "offense_name_en": "Carrying person on running board or otherwise than within the body of the motor vehicle.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "d11d851f-5a99-4442-8e82-5dbb5a4bc511",
+        "offense_name_en": "Travelling on the running board or on the top of the bonnet of the motor vehicle.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "4c503dfc-e478-4e5c-8c0c-9884cb016ca1",
+        "offense_name_en": "Allowing any person/ passenger to stand or sit or place anything in a manner as to hamper the control of driver.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "655504f2-fa8e-4bdb-841a-4975e7357dad",
+        "offense_name_en": "Allowing the motor vehicle to remain stationary without a licensed driver on the driver seat or stopping mechanism.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "21aa1d23-4185-444d-8cb5-999b06657e2d",
+        "offense_name_en": "Failure to produce Driving License, Conductor’s License, Registration Certificate, Permit, Fitness Certificate and Insurance Certificate on demand.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "29517a17-82d7-4dad-b23d-9271ca78e1ef",
+        "offense_name_en": "Failure to stop at unguarded Railway level crossing to ensure that no train or trolley is coming.",
+        "offense_section": "177",
+        "fine": "500",
+        "repetitive_fine": "1,500"
+    },
+    {
+        "id": "d1067a24-100c-4a11-bfd9-8c3bbb11e478",
+        "offense_name_en": "Travelling in a stage carriage without having a proper pass or ticket or being in or having alighted from a stage carriage failure or refusal to present for examination or to deliver up the pass or ticket immediately.",
+        "offense_section": "178(1)",
+        "fine": "500",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "12185fcd-d07e-403c-b679-79fffb6df1ed",
+        "offense_name_en": "Refusal to ply the contract carriage or to carry the passengers of two wheeled or three wheeled motor vehicles.",
+        "offense_section": "178(3)(a)",
+        "fine": "50",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "f1769fe5-b592-4b20-a60c-415245ed103a",
+        "offense_name_en": "Refusal to ply or to carry the passengers in any other case.",
+        "offense_section": "178(3)(b)",
+        "fine": "500",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "c49a937e-5a05-4fe4-b4ce-2539af49d5ac",
+        "offense_name_en": "Disobedience of orders of the authority, obstruction of the discharge of duty by the authority and refusal to give information.",
+        "offense_section": "179(1)",
+        "fine": "2,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "296bc64e-015d-43df-823f-7971aaba8756",
+        "offense_name_en": "Giving false information to the authority concerned.",
+        "offense_section": "179(2)",
+        "fine": "2,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "8b1ab352-cf5d-492a-a587-5623af082c92",
+        "offense_name_en": "Allowing unauthorized persons to drive any motor vehicle.",
+        "offense_section": "180",
+        "fine": "5,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "0a05cf87-c28b-4e36-9cbf-da5f19758166",
+        "offense_name_en": "Driving a motor vehicle without driving licence in contravention of section 3 or section 4 of the Act.",
+        "offense_section": "181",
+        "fine": "5,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "46d66b3c-762a-42b9-babf-7d80286cde3f",
+        "offense_name_en": "Offences relating to driving licence (Driving the motor vehicle by a person who is disqualified from holding or obtaining a driving licence or applying for or obtaining a driving licence without disclosing the previous endorsements)",
+        "offense_section": "182(1)",
+        "fine": "10,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "c23ec328-16a6-4624-9cf2-f55cca576c53",
+        "offense_name_en": "Offences relating to conductor’s licence (Acting as a conductor when disqualified from holding or obtaining conductor’s license or applying for or obtaining a conductor’s licence without disclosing the previous endorsements).",
+        "offense_section": "182(2)",
+        "fine": "10,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "9e655ec6-a3ec-42ef-bc88-bb8a9cb20c22",
+        "offense_name_en": "Contravention of the provisions of section 62(A).",
+        "offense_section": "182B",
+        "fine": "5,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "798abd3a-b01f-44b6-bdab-b86d87ab8499",
+        "offense_name_en": "Driving at excessive speed, etc., (1) Whoever drives or causes any person who is employed by him or subjects someone under his control to drive in contravention of speed limit referred to in section 112. (i) Light Motor Vehicle 183(1)(i) 1,000 - (ii) Medium or Heavy Motor Vehicle (Goods and Passengers)",
+        "offense_section": "183(1)(ii)",
+        "fine": "2,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "21403495-52cb-45ff-910e-7bfdfd9fd00c",
+        "offense_name_en": "Driving dangerously (rash and negligent driving) Use of handheld communication devices while driving.",
+        "offense_section": "184",
+        "fine": "1,000",
+        "repetitive_fine": "10,000"
+    },
+    {
+        "id": "8fd782e1-1a8f-4f3f-81ab-4e4c4707871e",
+        "offense_name_en": "Driving a motor vehicle when mentally or physically unfit to drive.",
+        "offense_section": "186",
+        "fine": "1,000",
+        "repetitive_fine": "2,000"
+    },
+    {
+        "id": "28f36384-1e02-4097-af65-ae02d6d5c741",
+        "offense_name_en": "Using motor vehicle for racing (or) trials of speed on public road without proper permission.",
+        "offense_section": "189",
+        "fine": "5,000",
+        "repetitive_fine": "10,000"
+    },
+    {
+        "id": "7db393f7-d5ae-4f3b-b19a-43357dace5aa",
+        "offense_name_en": "Driving or allowing to drive a motor vehicle in a public place violating the standards prescribed for road safety, control of air/noise pollution.",
+        "offense_section": "190(2)",
+        "fine": "10,000",
+        "repetitive_fine": "10,000"
+    },
+    {
+        "id": "2fd9f8cb-86f5-4832-b388-97640ae9cc47",
+        "offense_name_en": "Using motor vehicle without registration.",
+        "offense_section": "192(1)",
+        "fine": "2,500",
+        "repetitive_fine": "5,000"
+    },
+    {
+        "id": "cdc172b0-ff71-4032-9418-15dba03477d1",
+        "offense_name_en": "Refusal to stop the motor vehicle, refusal to submit it to weighing and removal of excess load prior to weighing.",
+        "offense_section": "194(2)",
+        "fine": "40,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "380b0839-2c28-418d-9922-e6ccc411b75b",
+        "offense_name_en": "Driving a motor vehicle or causing or allowing a motor vehicle to be driven in such a manner that the load or any part thereof extends laterally beyond the side of the body or to the front or to the rear or in height beyond the permissible limit.",
+        "offense_section": "194(1A)",
+        "fine": "20,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "6b897b6d-250c-4ef1-b264-c86e518f96e2",
+        "offense_name_en": "Driving a motor vehicle without wearing safety belt and carrying passengers without wearing seat belt, except in the cases under the proviso to sub-section (1) to section 194B.",
+        "offense_section": "194B(1)",
+        "fine": "1,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "a4d80d94-11db-4363-a0bc-f34e0d3bb765",
+        "offense_name_en": "Driving of a motor vehicle or causes or allows the motor vehicle to be driven with a child who having not attained the age of 14 years is not secured by a safety belt or a child restraint system.",
+        "offense_section": "194B(2)",
+        "fine": "1,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "3ddd56c7-fbeb-4bd4-97ef-91c78ef51005",
+        "offense_name_en": "Driving of a motor cycle or causing or allowing a motor cycle to be driven in contravention of the provisions of section 128 of the Motor Vehicles Act, 1988 or the rules or regulations made thereunder. (Excess persons in motor cycle beyond the capacity).",
+        "offense_section": "194C",
+        "fine": "1,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "06a6aa3f-47d3-488e-b735-53584fde2f6f",
+        "offense_name_en": "Driving a motor cycle or causing or allowing a motor cycle to be driven in contravention of the provisions of section 129 of the Motor Vehicles Act, 1988 or the rules or regulations made thereunder. (Wearing of protective headgear by the rider and the pillion rider).",
+        "offense_section": "194D",
+        "fine": "1,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "6a7f0758-25e4-4039-aa00-5f9362c60548",
+        "offense_name_en": "Failure to draw to the side of the road on the approach of an ambulance or fire service vehicle or other emergency vehicles, while driving a motor vehicle.",
+        "offense_section": "194E",
+        "fine": "10,000",
+        "repetitive_fine": "-"
+    },
+    {
+        "id": "a66b6a16-0b21-42fd-97e9-60ed43d8ae92",
+        "offense_name_en": "Blowing horn unnecessarily/ needlessly or blowing in prohibited areas or drives a motor vehicle which makes use of a cut-out by which exhaust gases are released other than through the silencer.",
+        "offense_section": "194F",
+        "fine": "1,000",
+        "repetitive_fine": "2,000"
+    },
+    {
+        "id": "6f0ec7a7-0dd3-4596-b3f2-f39b5e1c32ef",
+        "offense_name_en": "Driving a motor vehicle in contravention of section 146 of the Act. (Driving uninsured vehicles).",
+        "offense_section": "196",
+        "fine": "2,000",
+        "repetitive_fine": "4,000"
+    },
+    {
+        "id": "3166324c-24cb-4d72-930e-bb0692d9d81d",
+        "offense_name_en": "Unauthorized interference with a motor vehicle. (Entry/tempering the mechanism of the vehicle)",
+        "offense_section": "198",
+        "fine": "1,000",
+        "repetitive_fine": "-"
+    }
+]

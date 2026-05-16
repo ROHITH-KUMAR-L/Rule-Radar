@@ -110,6 +110,24 @@ rulerradar/
 
 ---
 
+## 🌐 Real Data Sources
+
+There is no single global API for traffic rules. You must compile the data from official sources. Here is where to download the real data for your app:
+
+### 1. GeoJSON City Boundaries
+*   **Overpass Turbo (overpass-turbo.eu):** The best tool to extract precise municipal boundaries from OpenStreetMap for free. (Query example: `relation["admin_level"="4"]["name"="Maharashtra"]; out geom;`)
+*   **DataMeet (github.com/datameet/maps):** Excellent open-source repository for Indian shapefiles and GeoJSONs (States, Districts, Municipal boundaries).
+*   **GADM (gadm.org):** Global administrative areas. Download country/state boundaries as GeoJSON.
+
+### 2. Traffic Fines & Compounding Fees
+You will need to use an LLM (like Gemini) to parse official PDFs/webpages into the required JSON schema.
+*   **India:** [Motor Vehicles (Amendment) Act, 2019 (PDF)](https://morth.nic.in/) and specific state traffic police websites (e.g., [Mumbai Traffic Police](https://trafficpolicemumbai.maharashtra.gov.in/)). 
+*   **OpenCity.in:** Contains CSV datasets of historical challan collections which often list the specific fine amounts for Indian cities.
+*   **UAE (Dubai):** [Dubai Police Official Fines List](https://www.dubaipolice.gov.ae/) or the RTA website.
+*   **Singapore:** [Singapore Police Force - Traffic Offences](https://www.police.gov.sg/).
+
+---
+
 ## 🗓️ 2-Week Implementation Plan
 
 ### Foundation, UI, and Core Logic
@@ -129,17 +147,17 @@ rulerradar/
 - **Milestone:** App asks for location permission and displays user on a working map.
 
 **Day 5-6: Geofencing & Data Models**
-- Create initial GeoJSON boundaries for Mumbai (Central/Suburbs) and Delhi.
-- Create mock fine schedules (JSON) for these zones.
+- Download and clean real GeoJSON boundaries for Mumbai and Delhi using Overpass Turbo / DataMeet.
+- Compile real fine schedules (JSON) for these zones using official Traffic Police websites.
 - Implement Turf.js logic (`useZoneDetection`) to check if the user's GPS dot falls within a GeoJSON polygon.
 - Build Zustand stores (`locationStore`, `rulesStore`) to manage state.
-- **Milestone:** App detects when user enters a specific zone (e.g., "Entered Mumbai Central").
+- **Milestone:** App detects when user enters a specific real-world zone (e.g., "Entered Mumbai Central").
 
 **Day 7: Rules UI & Interaction**
 - Build `RuleList` and `RuleCard` components using shadcn/ui Accordions.
 - Link the detected zone from Zustand to the Rules UI (display rules for the current zone).
 - Make map interactive: clicking a zone polygon updates the active zone and displayed rules.
-- **Milestone:** Fully functional offline prototype (using local mock data).
+- **Milestone:** Fully functional offline prototype using compiled real data.
 
 ---
 
@@ -148,7 +166,7 @@ rulerradar/
 **Day 8-9: Supabase Integration**
 - Set up Supabase project (using the guide above).
 - Create tables with PostGIS enabled (`geofence_zones`, `fine_schedules`).
-- Migrate local mock data to Supabase.
+- Migrate local real data to Supabase.
 - Update `rulesStore` and Map components to fetch data from Supabase instead of local files.
 - **Milestone:** App pulls dynamic data from the cloud backend.
 

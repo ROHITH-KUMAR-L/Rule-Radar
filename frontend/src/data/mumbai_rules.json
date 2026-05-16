@@ -1,0 +1,1986 @@
+[
+  {
+    "id": "MUM-001",
+    "offense_section": "",
+    "offense_name_en": "Sec 4(1)/181 MVA Driving Without valid License Below 16 Years o f Age",
+    "fine": "ीने",
+    "repetitive_fine": "वाहन",
+    "raw_text": "Sec 4(1)/181 MVA Driving Without valid License Below 16 Years o f Age वैध अनुǒापũािशवाय १६ वषŊवयाखालील ʩƅ ीने वाहन"
+  },
+  {
+    "id": "MUM-002",
+    "offense_section": "",
+    "offense_name_en": "Sec 19 to 20/182 (1) MVA License Disqualified Driver",
+    "fine": "10,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 19 to 20/182 (1) MVA License Disqualified Driver अनुǒापũअपाũचालक 10,000 Same"
+  },
+  {
+    "id": "MUM-003",
+    "offense_section": "",
+    "offense_name_en": "Sec 39/192(1) MVA Without valid Registration Any Vehicle (Drive r)",
+    "fine": "2,000",
+    "repetitive_fine": "5,000",
+    "raw_text": "Sec 39/192(1) MVA Without valid Registration Any Vehicle (Drive r) िवना वैध नोंदणी ‐ दुचाकी (चालक ) 2,000 5,000"
+  },
+  {
+    "id": "MUM-004",
+    "offense_section": "",
+    "offense_name_en": "Sec 39/192(1) MVA Without valid R egistration Any Vehicle (Owner)",
+    "fine": "2,000",
+    "repetitive_fine": "5,000",
+    "raw_text": "Sec 39/192(1) MVA Without valid R egistration Any Vehicle (Owner) िवना वैध नोंदणी ‐ दुचाकी (मालक ) 2,000 5,000"
+  },
+  {
+    "id": "MUM-005",
+    "offense_section": "",
+    "offense_name_en": "Sec 3(1)/181 MVA Driving Without valid License",
+    "fine": "5,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 3(1)/181 MVA Driving Without valid License वैध अनुǒापũािशवाय वाहन चालिवणे 5,000 Same"
+  },
+  {
+    "id": "MUM-006",
+    "offense_section": "",
+    "offense_name_en": "Sec 146/196 MVA Without valid Insurance (Driver)",
+    "fine": "2,000",
+    "repetitive_fine": "4,000",
+    "raw_text": "Sec 146/196 MVA Without valid Insurance (Driver) िवना वैध िवमा Ůमाणपũ (चालक ) 2,000 4,000"
+  },
+  {
+    "id": "MUM-007",
+    "offense_section": "",
+    "offense_name_en": "Sec 146/196 MVA Without valid Insurance (Owner or person in",
+    "fine": "aut",
+    "repetitive_fine": "horized",
+    "raw_text": "Sec 146/196 MVA Without valid Insurance (Owner or person in aut horized"
+  },
+  {
+    "id": "MUM-008",
+    "offense_section": "",
+    "offense_name_en": "CMVR 3(C)/177 MVA Driving Without L Board",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 3(C)/177 MVA Driving Without L Board िवना एल फलक चालिवणे 500 1,500"
+  },
+  {
+    "id": "MUM-009",
+    "offense_section": "",
+    "offense_name_en": "CMVR 51/177 MVA Illegal Number Plate Similar To DADA/ MAMA/ BAB A Etc.",
+    "fine": "1,000",
+    "repetitive_fine": "Same",
+    "raw_text": "CMVR 51/177 MVA Illegal Number Plate Similar To DADA/ MAMA/ BAB A Etc. बेकायदेिशर Ţमांक फलक. उदा. मामा,दादा,बाबा इ. 1,000 Same"
+  },
+  {
+    "id": "MUM-010",
+    "offense_section": "",
+    "offense_name_en": "CMVR 51/177 MVA Registration Nu mber or Letters Not as",
+    "fine": "Per",
+    "repetitive_fine": "Prescribed",
+    "raw_text": "CMVR 51/177 MVA Registration Nu mber or Letters Not as Per Prescribed"
+  },
+  {
+    "id": "MUM-011",
+    "offense_section": "",
+    "offense_name_en": "Sec 119/177 MVA No entry in prescribed time limit period for s pecific",
+    "fine": "vehicle",
+    "repetitive_fine": "/",
+    "raw_text": "Sec 119/177 MVA No entry in prescribed time limit period for s pecific vehicle /"
+  },
+  {
+    "id": "MUM-012",
+    "offense_section": "",
+    "offense_name_en": "Sec 125/177 MVA Obstruction to Driver / Front seating",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "Sec 125/177 MVA Obstruction to Driver / Front seating चालकास अडथळा / पुढील बैठक 500 1,500"
+  },
+  {
+    "id": "MUM-013",
+    "offense_section": "",
+    "offense_name_en": "Sec 123/177 MVA Riding on Runni ng Board Outside Vehicle",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "Sec 123/177 MVA Riding on Runni ng Board Outside Vehicle वाहनाǉा बाहेįरल फिळवर ˢार होणे 500 1,500"
+  },
+  {
+    "id": "MUM-014",
+    "offense_section": "",
+    "offense_name_en": "Sec 186 MVA Driver unfit (Physically/Mentally)",
+    "fine": "1,000",
+    "repetitive_fine": "2,000",
+    "raw_text": "Sec 186 MVA Driver unfit (Physically/Mentally) चालक अयोƶ (शारीįरकįरȑा / मानिसकįरȑा ) 1,000 2,000"
+  },
+  {
+    "id": "MUM-015",
+    "offense_section": "",
+    "offense_name_en": "MMVR 235/177 MVA Dazzling Light",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 235/177 MVA Dazzling Light Ůखर Ůकाश 500 1,500"
+  },
+  {
+    "id": "MUM-016",
+    "offense_section": "",
+    "offense_name_en": "CMVR 105/177 MVA Without Light after sunset",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 105/177 MVA Without Light after sunset िवना Ůकाश सुयाŊˑानंतर 500 1,500"
+  },
+  {
+    "id": "MUM-017",
+    "offense_section": "",
+    "offense_name_en": "CMVR 109/177 MVA Without Parking Light",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 109/177 MVA Without Parking Light िवना पािकōग Ůकाश 500 1,500"
+  },
+  {
+    "id": "MUM-018",
+    "offense_section": "",
+    "offense_name_en": "MMVR 236(1)/177 MVA Light not visible",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 236(1)/177 MVA Light not visible Ůकाश िदसत नाही 500 1,500"
+  },
+  {
+    "id": "MUM-019",
+    "offense_section": "",
+    "offense_name_en": "CMVR 119(2)/177 MVA Vehicle fitted with any multi toned horn g iving a",
+    "fine": "succession",
+    "repetitive_fine": "of",
+    "raw_text": "CMVR 119(2)/177 MVA Vehicle fitted with any multi toned horn g iving a succession of"
+  },
+  {
+    "id": "MUM-500",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "1,500",
+    "raw_text": "1,500"
+  },
+  {
+    "id": "MUM-020",
+    "offense_section": "",
+    "offense_name_en": "MMVR 239/177 MVA Jumping signal",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 239/177 MVA Jumping signal संके तक ओलांडणे (जİɼंग िसưल) 500 1,500"
+  },
+  {
+    "id": "MUM-021",
+    "offense_section": "",
+    "offense_name_en": "Sec 189 MVA Racing / Speed test violation ( Driver )",
+    "fine": "5,000",
+    "repetitive_fine": "10,000",
+    "raw_text": "Sec 189 MVA Racing / Speed test violation ( Driver ) शयŊत / वेग पįरƗण उʟंघन  (चालक) 5,000 10,000"
+  },
+  {
+    "id": "MUM-022",
+    "offense_section": "",
+    "offense_name_en": "Sec 189 MVA Racing / Speed test violation (Owner or person",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 189 MVA Racing / Speed test violation (Owner or person in  authorized"
+  },
+  {
+    "id": "MUM-023",
+    "offense_section": "",
+    "offense_name_en": "Sec 112/183(1)",
+    "fine": "MVA",
+    "repetitive_fine": "(2‐3",
+    "raw_text": "Sec 112/183(1) MVA (2‐3"
+  },
+  {
+    "id": "MUM-024",
+    "offense_section": "",
+    "offense_name_en": "Sec 112/183(1) MVA (Tractor) Speed violating by driver (Tracto r)",
+    "fine": "1,500",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 112/183(1) MVA (Tractor) Speed violating by driver (Tracto r) वेग मयाŊदा उʟंघन चालका̺दारे  (टŌॅƃर ) 1,500 Same"
+  },
+  {
+    "id": "MUM-025",
+    "offense_section": "",
+    "offense_name_en": "Sec 112/183(1) MVA (LMV) Speed violating by driver (LMV)",
+    "fine": "2,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 112/183(1) MVA (LMV) Speed violating by driver (LMV) वेग मयाŊदा उʟंघन चालका̺दारे  (4 चाकी LMV ) 2,000 Same"
+  },
+  {
+    "id": "MUM-026",
+    "offense_section": "",
+    "offense_name_en": "Sec 112/183(1) MVA",
+    "fine": "(MMV",
+    "repetitive_fine": "‐",
+    "raw_text": "Sec 112/183(1) MVA (MMV ‐"
+  },
+  {
+    "id": "MUM-027",
+    "offense_section": "",
+    "offense_name_en": "MMVR 202/177MVA",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 202/177MVA Unsafe‐dangerous transportation Of goods मालाची असुरिƗत धोकादायक वाहतुक 500 1,500"
+  },
+  {
+    "id": "MUM-028",
+    "offense_section": "",
+    "offense_name_en": "CMVR 93(8)/177 MVA Unsafe goods beyond body",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 93(8)/177 MVA Unsafe goods beyond body  असुरिƗतमाल वाहनाǉा भागाǉा बाहेर 500 1,500"
+  },
+  {
+    "id": "MUM-029",
+    "offense_section": "",
+    "offense_name_en": "CMVR 100(2)/177 MVA Tinted glasses /Black Film",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 100(2)/177 MVA Tinted glasses /Black Film रंगीतक ा चा / काचेवįरल काळे अवरणे (िफʝ ) 500 1,500"
+  },
+  {
+    "id": "MUM-030",
+    "offense_section": "",
+    "offense_name_en": "MMVR 165/177 MVA Without Mud guard",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 165/177 MVA Without Mud guard िवना िचखलरƗक (मडगाडŊ) 500 1,500"
+  },
+  {
+    "id": "MUM-031",
+    "offense_section": "",
+    "offense_name_en": "MMVR 161/177 MVA Without Side mirror",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 161/177 MVA Without Side mirror िवना बाजूचा आरसा 500 1,500"
+  },
+  {
+    "id": "MUM-032",
+    "offense_section": "",
+    "offense_name_en": "MMVR 162/177 MVA TV/video set on dashboard",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 162/177 MVA TV/video set on dashboard डॅशबोडŊवर दुरिचũवाणी/İʬिडओ  चालवणे 500 1,500"
+  },
+  {
+    "id": "MUM-033",
+    "offense_section": "",
+    "offense_name_en": "MMVR 232/177 MVA Without Silencer",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 232/177 MVA Without Silencer िवना आवाजŮितबंधक यंũ (सायलेɌर) 500 1,500"
+  },
+  {
+    "id": "MUM-034",
+    "offense_section": "",
+    "offense_name_en": "CMVR 94(3)/177 MVA Tyres not in good and sound condition",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 94(3)/177 MVA Tyres not in good and sound condition चाके (टायर) चांगʞा बळकट İ̾थतीत नाहीत 500 1,500"
+  },
+  {
+    "id": "MUM-035",
+    "offense_section": "",
+    "offense_name_en": "CMVR 104(1)/177 MVA Without Red Reflector",
+    "fine": "1,000",
+    "repetitive_fine": "Same",
+    "raw_text": "CMVR 104(1)/177 MVA Without Red Reflector िवना लाल पįरवतŊक 1,000 Same"
+  },
+  {
+    "id": "MUM-036",
+    "offense_section": "",
+    "offense_name_en": "Sec 198 MVA Unauthorized Interference with vehicle",
+    "fine": "1,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 198 MVA Unauthorized Interference with vehicle वाहनाǉा संबंधीत अनिधकृ त हˑƗेप 1,000 Same"
+  },
+  {
+    "id": "MUM-037",
+    "offense_section": "",
+    "offense_name_en": "CMVR 101/177 MVA Driving Without Wiper",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 101/177 MVA Driving Without Wiper िवना झपाटा (वायपर) चालिवणे 500 1,500"
+  },
+  {
+    "id": "MUM-038",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(5)/177 MVA Stop out of stand",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(5)/177 MVA Stop out of stand थांɯाǉा बाहेरउ भा (मोटर कॅ ब ) 500 1,500"
+  },
+  {
+    "id": "MUM-039",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(14)/177 MVA Insufficient fuel (Motor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(14)/177 MVA Insufficient fuel (Motor Cab) इंधन साठा पुरेसा नाही.(मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-040",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(7)/177 MVA Meter flag down on stand (Motor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(7)/177 MVA Meter flag down on stand (Motor Cab) िमटर झŐडा खाली थांɯावर (मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-041",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(10)/177 MVA Carry cleaner in permit vehicle (Motor Cab )",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(10)/177 MVA Carry cleaner in permit vehicle (Motor Cab ) परवानाधारक वाहनात ˢǅकास नेणे. (मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-042",
+    "offense_section": "",
+    "offense_name_en": "MMVR 146/177 Faulty Meter (Motor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 146/177 Faulty Meter (Motor Cab) िबघडलेले िमटर  (मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-043",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(18)/177 MVA Cab / Taxi driver without white Uniform (M otor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(18)/177 MVA Cab / Taxi driver without white Uniform (M otor Cab) कॅ ब /टॅƛ ी चालक गणवेश पांढरा नाही 500 1,500"
+  },
+  {
+    "id": "MUM-044",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(18)/177 MVA Without Uniform",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(18)/177 MVA Without Uniform (Non‐Meter Tourist/Cab) िवना िविहत गणवेश ‐ पयŊटक वाहन 500 1,500"
+  },
+  {
+    "id": "MUM-045",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(18)/177 MVA Without Cab Drivers",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(18)/177 MVA Without Cab Drivers I‐Card (All Cab)  िवना कॅ ब चालक ओळखपũ 500 1,500"
+  },
+  {
+    "id": "MUM-046",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(18)/177",
+    "fine": "MVA",
+    "repetitive_fine": "RW",
+    "raw_text": "MMVR 21(18)/177 MVA RW"
+  },
+  {
+    "id": "MUM-047",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(13)/177 Shouting for passenger (Motor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(13)/177 Shouting for passenger (Motor Cab) Ůवाशांचे लƗवेधǻासाठी ओरडणे. 500 1,500"
+  },
+  {
+    "id": "MUM-048",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(16)/177 Driver Smoking while on duty (Motor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(16)/177 Driver Smoking while on duty (Motor Cab) चालक कतŊʩावर धूŲपान करतो.(मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-049",
+    "offense_section": "",
+    "offense_name_en": "MMVR 23(1)/177 MVA Obstruction to driver by carrying animal/th ings (Goods Carrier)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 23(1)/177 MVA Obstruction to driver by carrying animal/th ings (Goods Carrier) Ůाणी / इतर सामान सहचालकास अडथळा (मालवाहक) 500 1,500"
+  },
+  {
+    "id": "MUM-050",
+    "offense_section": "",
+    "offense_name_en": "Sec 5/180 MVA Permitting Driver to Drive MV Without License (O wner)",
+    "fine": "परवानगी",
+    "repetitive_fine": "देणे",
+    "raw_text": "Sec 5/180 MVA Permitting Driver to Drive MV Without License (O wner) िवना अनुǒापũचालकास वाहन चालिवǻास परवानगी देणे"
+  },
+  {
+    "id": "MUM-051",
+    "offense_section": "",
+    "offense_name_en": "Sec 130(1)/177 MVA Failed to Produce valid License",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "Sec 130(1)/177 MVA Failed to Produce valid License वैध अनुǒापũ(लायसन) सादर के ली नाही 500 1,500"
+  },
+  {
+    "id": "MUM-052",
+    "offense_section": "",
+    "offense_name_en": "CMVR 139/177 MVA Failed to Produce Documents Within 15 Days of",
+    "fine": "Demand",
+    "repetitive_fine": "in",
+    "raw_text": "CMVR 139/177 MVA Failed to Produce Documents Within 15 Days of  Demand in"
+  },
+  {
+    "id": "MUM-053",
+    "offense_section": "",
+    "offense_name_en": "MMVR 134(1)/177 MVA Using word / figure / drawing / sticker on vehicle",
+    "fine": "(press",
+    "repetitive_fine": "/",
+    "raw_text": "MMVR 134(1)/177 MVA Using word / figure / drawing / sticker on  vehicle (press /"
+  },
+  {
+    "id": "MUM-500",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "1,500",
+    "raw_text": "1,500"
+  },
+  {
+    "id": "MUM-054",
+    "offense_section": "",
+    "offense_name_en": "Sec 179(1) MVA Disobedience of Police order /direction",
+    "fine": "750",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 179(1)  MVA Disobedience  of Police order /direction पोिलस आदंश िनदőशाचे अनुपालन न करणे 750 Same"
+  },
+  {
+    "id": "MUM-055",
+    "offense_section": "",
+    "offense_name_en": "Sec 190(2) MVA",
+    "fine": "(",
+    "repetitive_fine": "2‐3",
+    "raw_text": "Sec 190(2) MVA ( 2‐3"
+  },
+  {
+    "id": "MUM-056",
+    "offense_section": "",
+    "offense_name_en": "Sec 190(2) MVA",
+    "fine": "(",
+    "repetitive_fine": "2‐3",
+    "raw_text": "Sec 190(2) MVA ( 2‐3"
+  },
+  {
+    "id": "MUM-057",
+    "offense_section": "",
+    "offense_name_en": "Sec 190(2) MVA",
+    "fine": "(Other",
+    "repetitive_fine": "than",
+    "raw_text": "Sec 190(2) MVA (Other than"
+  },
+  {
+    "id": "MUM-058",
+    "offense_section": "",
+    "offense_name_en": "Sec 190(2) MVA",
+    "fine": "(Other",
+    "repetitive_fine": "than",
+    "raw_text": "Sec 190(2) MVA (Other than"
+  },
+  {
+    "id": "MUM-059",
+    "offense_section": "",
+    "offense_name_en": "CMVR 102(2)/177 MVA Without Red Rear Lamp",
+    "fine": "or",
+    "repetitive_fine": "light",
+    "raw_text": "CMVR 102(2)/177 MVA Without Red Rear Lamp or light"
+  },
+  {
+    "id": "MUM-060",
+    "offense_section": "",
+    "offense_name_en": "MMVR 4/177 MVA Valid Badge not in the name of Driver of passen ger carrier.",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 4/177 MVA Valid Badge not in the name of Driver of passen ger carrier. वैध बॅच Ůवासी वाहनाǉा चालकाǉा नावावर नाही 500 1,500"
+  },
+  {
+    "id": "MUM-061",
+    "offense_section": "",
+    "offense_name_en": "MMVR 249/177 MVA HMV without cleaner",
+    "fine": "Repetitive",
+    "repetitive_fine": "Fine",
+    "raw_text": "MMVR 249/177 MVA HMV without cleaner अवजड वाहन ˢǅकािशवाय (Ƒी नर) 500 1,500Sr. No.  Offense Section Offense Name ‐ English  Offense Name ‐ Ma rathi Fine Repetitive Fine"
+  },
+  {
+    "id": "MUM-062",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Visibility of number plate on front and rear o f vehicle",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Visibility of number plate on front and rear o f vehicle वाहनाचा पुढील व मागील Ţमांक फलक ̊ˈमानता 500 1,500"
+  },
+  {
+    "id": "MUM-063",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Number Plate of Transport Vehicle Not Displaye d",
+    "fine": "at",
+    "repetitive_fine": "Four",
+    "raw_text": "CMVR 50/177 MVA Number Plate of Transport Vehicle Not Displaye d at Four"
+  },
+  {
+    "id": "MUM-064",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Registration Number of Taxi Not Painted On Das h Board",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Registration Number of Taxi Not Painted On Das h Board नोंदणी Ţमांक टॅƛ ीǉा डॅषबोडŊवर रंगवलेला नाही. 500 1,500"
+  },
+  {
+    "id": "MUM-065",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Trailers Rear Si de Number Plate Not Displayed",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Trailers Rear Si de Number Plate Not Displayed टŌेलरǉा पाठीमागील Ţमांक फलक ŮदिशŊत नाही 500 1,500"
+  },
+  {
+    "id": "MUM-066",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Number Plate Bear s Personnel Name or Pictures",
+    "fine": "or",
+    "repetitive_fine": "Symbols",
+    "raw_text": "CMVR 50/177 MVA Number Plate Bear s Personnel Name or Pictures or Symbols"
+  },
+  {
+    "id": "MUM-067",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA LMV Number Plat e Not at Middle with Illumination",
+    "fine": "मȯावर",
+    "repetitive_fine": "नाही",
+    "raw_text": "CMVR 50/177 MVA LMV Number Plat e Not at Middle with Illumination हलƐ ा मोटार वाहनाचा Ţमांक फलक मȯावर नाही"
+  },
+  {
+    "id": "MUM-068",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Rear Side Number Plate of Transport Vehicle No t Illuminated",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Rear Side Number Plate of Transport Vehicle No t Illuminated पįरवहन वाहनाचा पाठीमागील Ţमांक फलक Ůकाशमय नाही 500 1,500"
+  },
+  {
+    "id": "MUM-069",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Number Plate Letters Not In English And Figur es Not",
+    "fine": "In",
+    "repetitive_fine": "Arabic",
+    "raw_text": "CMVR 50/177 MVA Number Plate Letters Not In English And Figur es Not In Arabic"
+  },
+  {
+    "id": "MUM-070",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Number Plate Broken",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Number Plate Broken तुटलेला Ţमांक फलक 500 1,500"
+  },
+  {
+    "id": "MUM-071",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Number Plate with Unauthorized Colour",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Number Plate with Unauthorized Colour अनिधकृ त रंगाचा Ţमांक फलक 500 1,500"
+  },
+  {
+    "id": "MUM-072",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Registration Number not In Four Digits",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Registration Number not In Four Digits नोंदणी Ţमांक चार आकडी नाही. 500 1,500"
+  },
+  {
+    "id": "MUM-073",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Number Plate of Motor Cycle Not Parallel to Ha ndle Bar",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 50/177 MVA Number Plate of Motor Cycle Not Parallel to Ha ndle Bar मोटार सायकलचा Ţमांक फलक हॅǷ ल बारला समांतर नाही 500 1,500"
+  },
+  {
+    "id": "MUM-074",
+    "offense_section": "",
+    "offense_name_en": "MMVR 229(2)/177 MVA Unsafe goods beyond body No White reflecto r",
+    "fine": "disc",
+    "repetitive_fine": "&",
+    "raw_text": "MMVR 229(2)/177 MVA Unsafe goods beyond body No White reflecto r disc &"
+  },
+  {
+    "id": "MUM-075",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(ix)/177 MVA Failed to display valid badge(PSV other than M.CAB)",
+    "fine": "वाहन",
+    "repetitive_fine": "मोटर",
+    "raw_text": "MMVR 20(1)(ix)/177 MVA Failed to display valid badge(PSV other  than M.CAB) वैध िबʟ ा पįरधान के ला नाही. (सावŊजिनक सेवा वाहन मोटर"
+  },
+  {
+    "id": "MUM-076",
+    "offense_section": "",
+    "offense_name_en": "Sec 56/39/192 MVA Without valid fitness certificate (Driver)",
+    "fine": "2,000",
+    "repetitive_fine": "5,000",
+    "raw_text": "Sec 56/39/192 MVA Without valid  fitness certificate (Driver) िवना वैध योƶता Ůमाणपũ  (चालक) 2,000 5,000"
+  },
+  {
+    "id": "MUM-077",
+    "offense_section": "",
+    "offense_name_en": "Sec 56/39/192 MVA Without valid fitness certificate (Owner)",
+    "fine": "2,000",
+    "repetitive_fine": "5,000",
+    "raw_text": "Sec 56/39/192 MVA Without valid  fitness certificate (Owner) िवना वैध योƶता Ůमाणपũ  (मालक) 2,000 5,000"
+  },
+  {
+    "id": "MUM-078",
+    "offense_section": "",
+    "offense_name_en": "CMVR 93(4)/177 MVA Load extends to height beyond Limits/projec tion",
+    "fine": "of",
+    "repetitive_fine": "load",
+    "raw_text": "CMVR 93(4)/177 MVA Load extends to height beyond Limits/projec tion of load"
+  },
+  {
+    "id": "MUM-079",
+    "offense_section": "",
+    "offense_name_en": "CMVR 125 r/w",
+    "fine": "S.O.",
+    "repetitive_fine": "1365(E)",
+    "raw_text": "CMVR 125 r/w S.O. 1365(E)"
+  },
+  {
+    "id": "MUM-080",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(19)/177 MVA Unclean vehicle (Motor Cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(19)/177 MVA Unclean vehicle (Motor Cab) अˢǅ वाहन  (मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-081",
+    "offense_section": "",
+    "offense_name_en": "Sec 66 (I) r/w Sec",
+    "fine": "192",
+    "repetitive_fine": "(A)",
+    "raw_text": "Sec 66 (I) r/w  Sec 192 (A)"
+  },
+  {
+    "id": "MUM-082",
+    "offense_section": "",
+    "offense_name_en": "Sec 66 (I) r/w Sec",
+    "fine": "192",
+    "repetitive_fine": "(A)",
+    "raw_text": "Sec 66 (I) r/w  Sec 192 (A)"
+  },
+  {
+    "id": "MUM-083",
+    "offense_section": "",
+    "offense_name_en": "CMVR 103/177 MVA Driving Without indicator",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 103/177 MVA Driving Without indicator िवना दशŊक (इंिडके टर) चालिवणे 500 1,500"
+  },
+  {
+    "id": "MUM-084",
+    "offense_section": "",
+    "offense_name_en": "CMVR 3(b)/177 MVA Learner Driver not accompanied with trainer",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 3(b)/177 MVA Learner Driver not accompanied with trainer िशकावू  चालकासोबत ŮिशƗक नाही 500 1,500"
+  },
+  {
+    "id": "MUM-085",
+    "offense_section": "",
+    "offense_name_en": "MMVR 224/177 MVA Restrictions on driving with gear disengaged/",
+    "fine": "Driving",
+    "repetitive_fine": "with",
+    "raw_text": "MMVR 224/177 MVA Restrictions on driving with gear disengaged/  Driving with"
+  },
+  {
+    "id": "MUM-500",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "1,500",
+    "raw_text": "1,500"
+  },
+  {
+    "id": "MUM-086",
+    "offense_section": "",
+    "offense_name_en": "Sec 84(G) r/w 177 MVA Permit Holder MV",
+    "fine": "operator",
+    "repetitive_fine": "not",
+    "raw_text": "Sec 84(G) r/w 177 MVA Permit Holder MV ‐ Name and Address of t he operator not"
+  },
+  {
+    "id": "MUM-087",
+    "offense_section": "",
+    "offense_name_en": "CMVR 115(7)/177 MVA Failed to produce valid PUCC",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 115(7)/177 MVA Failed to produce valid PUCC  वैध पीयुसीसी  सादर के ली नाही 500 1,500"
+  },
+  {
+    "id": "MUM-088",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1) (xvi)/177 MVA Failed to produce valid driving licen se on",
+    "fine": "demand",
+    "repetitive_fine": "(public",
+    "raw_text": "MMVR 20(1) (xvi)/177 MVA Failed to produce valid driving licen se on demand (public"
+  },
+  {
+    "id": "MUM-089",
+    "offense_section": "",
+    "offense_name_en": "Sec 6(1)/179 MVA Driver found with two licenses in his name",
+    "fine": "750",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 6(1)/179 MVA Driver found with two licenses in his name चालकाǉा नावे दोन अनुǒापũे आढळु न आली 750 Same"
+  },
+  {
+    "id": "MUM-090",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(x)/177 MVA Unclean veh icle (public service vehicle)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 20(1)(x)/177 MVA Unclean veh icle (public service vehicle) अˢǅ वाहन (सावŊजिनक सेवा वाहन) 500 1,500"
+  },
+  {
+    "id": "MUM-091",
+    "offense_section": "",
+    "offense_name_en": "MMVR 108/177 MVA Carriage of persons in goods vehicle",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 108/177 MVA Carriage of persons in goods vehicle मालवाšवाहनातून इसमांची वाहतूक 500 1,500"
+  },
+  {
+    "id": "MUM-092",
+    "offense_section": "",
+    "offense_name_en": "MMVR 163/177 MVA Dangerous projection",
+    "fine": "Repetitive",
+    "repetitive_fine": "Fine",
+    "raw_text": "MMVR 163/177 MVA Dangerous projection धोकादायकįरȑा पुढे आलेला भाग 500 1,500Sr. No.  Offense Section Offense Name ‐ English  Offense Name ‐ Ma rathi Fine Repetitive Fine"
+  },
+  {
+    "id": "MUM-093",
+    "offense_section": "",
+    "offense_name_en": "MMVR 168/177 MVA Use of military/ police colours & registratio n mark prohibited",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 168/177 MVA Use of military/ police colours & registratio n mark prohibited िमिलटरी/पोलीस रंग आिण नोंदणी िचɎ यांǉा वापरास मनाई 500 1,500"
+  },
+  {
+    "id": "MUM-094",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(17)/177 MVA Misbehaviour towards passenger & others (m otor cab)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(17)/177 MVA Misbehaviour towards passenger & others (m otor cab) Ůवाशी व इतरांसोबत गैरवतŊनुक (मोटर कॅ ब) 500 1,500"
+  },
+  {
+    "id": "MUM-095",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(i)/177 MVA Allowing any person animal or thing to b e in",
+    "fine": "the",
+    "repetitive_fine": "space",
+    "raw_text": "MMVR 20(1)(i)/177 MVA Allowing any person animal or thing to b e in the space"
+  },
+  {
+    "id": "MUM-096",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(ii)/177 MVA Shouting for passenger (PSV other than M.CAB)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 20(1)(ii)/177 MVA Shouting for passenger (PSV other than  M.CAB) Ůवाशांसाठी ओरडणे (सावŊजिनक सेवा वाहन मोटर कॅ ब वगळू न) 500 1,500"
+  },
+  {
+    "id": "MUM-097",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(vi)/177 MVA Smoking while on duty (PSV other than M .CAB)",
+    "fine": "कॅ",
+    "repetitive_fine": "ब",
+    "raw_text": "MMVR 20(1)(vi)/177 MVA Smoking while on duty (PSV other than M .CAB) कतŊʩावर धूŲपान करणे (सावŊजिनक सेवा वाहन मोटार कॅ ब"
+  },
+  {
+    "id": "MUM-098",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(vii)/177 MVA Misbehaviour towards passenger & other s (PSV",
+    "fine": "other",
+    "repetitive_fine": "than",
+    "raw_text": "MMVR 20(1)(vii)/177 MVA Misbehaviour towards passenger & other s (PSV other than"
+  },
+  {
+    "id": "MUM-099",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(viii)/177 MVA Driver wi thout Khaki uniform (PSV other than M.CAB)",
+    "fine": "कॅ",
+    "repetitive_fine": "ब",
+    "raw_text": "MMVR 20(1)(viii)/177 MVA Driver wi thout Khaki uniform (PSV other than M.CAB) चालक िवना खाकी गणवेश (सावŊजिनक सेवा वाहन मोटर कॅ ब"
+  },
+  {
+    "id": "MUM-100",
+    "offense_section": "",
+    "offense_name_en": "MMVR 20(1)(xii)/177 MVA Unnecessarily delay the journey (PSV other than M.CAB)",
+    "fine": "वाहन",
+    "repetitive_fine": "मोटर",
+    "raw_text": "MMVR 20(1)(xii)/177 MVA Unnecessarily delay the journey (PSV  other than M.CAB) Ůवासात अनावʴ क िवलंब के ला (सावŊजिनक सेवा वाहन मोटर"
+  },
+  {
+    "id": "MUM-101",
+    "offense_section": "",
+    "offense_name_en": "Sec 120/177 MVA Motor Vehicle with left hand drive without",
+    "fine": "di",
+    "repetitive_fine": "splaying",
+    "raw_text": "Sec 120/177 MVA Motor Vehicle with left hand drive without di splaying"
+  },
+  {
+    "id": "MUM-102",
+    "offense_section": "",
+    "offense_name_en": "MMVR 24(2)/177 MVA Failed to display Badge (HMV passenger car rier)",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 24(2)/177 MVA Failed to display Badge (HMV passenger car rier) िबʟ ा ŮदिशŊतके ला नाही.  एच एम ʬी Ůवाशांची वाहतूक 500 1,500"
+  },
+  {
+    "id": "MUM-103",
+    "offense_section": "",
+    "offense_name_en": "CMVR 43/177 MVA Form No. 19 duplicate copy not produced.",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 43/177 MVA Form No. 19 duplicate copy not produced. फॉमŊŢमांक १९ ची दुʊम Ůत सादर न करणे 500 1,500"
+  },
+  {
+    "id": "MUM-104",
+    "offense_section": "",
+    "offense_name_en": "CMVR 40/177 MVA Identification card Issued by Dealer not prod uced",
+    "fine": "के",
+    "repetitive_fine": "लेले",
+    "raw_text": "CMVR 40/177 MVA Identification card Issued by Dealer not prod uced  िडलरȪारे Ůˑुतके लेले ओळखपũतपासणीसाठी सादर के लेले"
+  },
+  {
+    "id": "MUM-105",
+    "offense_section": "",
+    "offense_name_en": "CMVR 39(2)/177 MVA Original T.C. Not produced",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "CMVR 39(2)/177 MVA Original T.C. Not produced  मूळ िटसी सादर न करणे 500 1,500"
+  },
+  {
+    "id": "MUM-106",
+    "offense_section": "",
+    "offense_name_en": "CMVR 117/177 MVA Speedo Meter Wire fraud detected",
+    "fine": "के",
+    "repetitive_fine": "ʞाचे",
+    "raw_text": "CMVR 117/177 MVA Speedo Meter Wire fraud detected  ˙ीडो  मीटर मशीन पासून ˙ीडो मीटर वायर वेगळी के ʞाचे"
+  },
+  {
+    "id": "MUM-107",
+    "offense_section": "",
+    "offense_name_en": "MMVR 54(3)/177 MVA F.T. Form not submitted to local RTO withi n seven",
+    "fine": "days",
+    "repetitive_fine": "of",
+    "raw_text": "MMVR 54(3)/177 MVA F.T. Form not submitted to local RTO withi n seven days of"
+  },
+  {
+    "id": "MUM-500",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "1,500",
+    "raw_text": "1,500"
+  },
+  {
+    "id": "MUM-108",
+    "offense_section": "",
+    "offense_name_en": "Sec 129/194(D) MVA Riding without helmet by Driver (Owner)",
+    "fine": "&",
+    "repetitive_fine": "in",
+    "raw_text": "Sec 129/194(D) MVA Riding without helmet by  Driver (Owner) हेʝेटिशवाय मोटारसायकल चालवणे, (मालक) Rs. 1000 & in"
+  },
+  {
+    "id": "MUM-109",
+    "offense_section": "",
+    "offense_name_en": "Sec 129/194(D) MVA Riding without helmet by",
+    "fine": "Pillion",
+    "repetitive_fine": "(Owner)",
+    "raw_text": "Sec 129/194(D) MVA Riding without helmet by Pillion (Owner)"
+  },
+  {
+    "id": "MUM-110",
+    "offense_section": "",
+    "offense_name_en": "Sec 129/194(D) MVA Riding without helmet by Driver (Driver)",
+    "fine": "&",
+    "repetitive_fine": "in",
+    "raw_text": "Sec 129/194(D) MVA Riding without helmet by  Driver (Driver) हेʝेटिशवाय मोटारसायकल चालवणे, (चालक) Rs. 1000 & in"
+  },
+  {
+    "id": "MUM-111",
+    "offense_section": "",
+    "offense_name_en": "Sec 129/194(D) MVA Riding without helmet by",
+    "fine": "Pillion",
+    "repetitive_fine": "(Driver)",
+    "raw_text": "Sec 129/194(D) MVA Riding without helmet by Pillion (Driver)"
+  },
+  {
+    "id": "MUM-112",
+    "offense_section": "",
+    "offense_name_en": "Sec 184C MVA",
+    "fine": "of",
+    "repetitive_fine": "handheld",
+    "raw_text": "Sec 184C MVA (2‐3 Wheeler) Person driving the vehicle only to  extent of use of handheld"
+  },
+  {
+    "id": "MUM-113",
+    "offense_section": "",
+    "offense_name_en": "Sec 184C MVA (LMV) Person drivi ng the vehicle only to extent of use",
+    "fine": "of",
+    "repetitive_fine": "handheld",
+    "raw_text": "Sec 184C MVA (LMV) Person drivi ng the vehicle only to extent of use of handheld"
+  },
+  {
+    "id": "MUM-114",
+    "offense_section": "",
+    "offense_name_en": "Sec 184C",
+    "fine": "MVA",
+    "repetitive_fine": "(Other",
+    "raw_text": "Sec 184C MVA (Other"
+  },
+  {
+    "id": "MUM-115",
+    "offense_section": "",
+    "offense_name_en": "Sec 194B(1) MVA Without Seatbelt",
+    "fine": "1,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194B(1) MVA Without Seatbelt  िवना बैठक सुरƗा पǥा  (िसटबेʐ) 1,000 Same"
+  },
+  {
+    "id": "MUM-116",
+    "offense_section": "",
+    "offense_name_en": "Sec 119/177 MVA One way traffic sign not obeyed",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "Sec 119/177 MVA One way traffic sign not obeyed एके री मागŊवाहतूक िचɎ पाळले नाही 500 1,500"
+  },
+  {
+    "id": "MUM-117",
+    "offense_section": "",
+    "offense_name_en": "Sec 128(1)/194(C) MVA Drive a motor cycle with triple seat. ( Driver )",
+    "fine": "&",
+    "repetitive_fine": "in",
+    "raw_text": "Sec 128(1)/194(C) MVA Drive a motor cycle with triple seat. (  Driver ) मो.सायकलवर तीन बसलेले. (चालक) Rs. 1000 & in"
+  },
+  {
+    "id": "MUM-118",
+    "offense_section": "",
+    "offense_name_en": "Sec 128(1)/194(C) MVA Drive a motor cycle with triple seat. ( Owner or",
+    "fine": "person",
+    "repetitive_fine": "in",
+    "raw_text": "Sec 128(1)/194(C) MVA Drive a motor cycle with triple seat. ( Owner or person in"
+  },
+  {
+    "id": "MUM-119",
+    "offense_section": "",
+    "offense_name_en": "CMVR 109/177 MVA Driving veh icle with parking",
+    "fine": "light",
+    "repetitive_fine": "on",
+    "raw_text": "CMVR 109/177 MVA Driving veh icle with parking light on"
+  },
+  {
+    "id": "MUM-120",
+    "offense_section": "",
+    "offense_name_en": "Sec 194F (a)(i) MVA Sounds the horn needlessly or continuousl y or",
+    "fine": "more",
+    "repetitive_fine": "than",
+    "raw_text": "Sec 194F (a)(i) MVA Sounds the horn needlessly or continuousl y or more than"
+  },
+  {
+    "id": "MUM-121",
+    "offense_section": "",
+    "offense_name_en": "Sec 194F (a)(ii)MVA Sound the horn in an area with a traffic sign prohibiting",
+    "fine": "use",
+    "repetitive_fine": "of",
+    "raw_text": "Sec 194F (a)(ii)MVA Sound the horn in an area with a traffic  sign prohibiting use of"
+  },
+  {
+    "id": "MUM-122",
+    "offense_section": "",
+    "offense_name_en": "Sec 194F (b) MVA Drives a Motor vehicle which makes use of a cut out",
+    "fine": "by",
+    "repetitive_fine": "which",
+    "raw_text": "Sec 194F (b) MVA Drives a Motor vehicle which makes use of a  cut out by which"
+  },
+  {
+    "id": "MUM-123",
+    "offense_section": "",
+    "offense_name_en": "MMVR 239/177 MVA Police manual signal violation",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 239/177 MVA Police manual signal violation पोिलसाने के लेʞा इशा̴याचे पालन न करणे 500 1,500"
+  },
+  {
+    "id": "MUM-124",
+    "offense_section": "",
+    "offense_name_en": "MMVR 239/177 MVA Police stop violation",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 239/177 MVA Police stop violation पोिलसांनी थांबवǻास सांिगतʞाचे  उʟंघन करणे 500 1,500"
+  },
+  {
+    "id": "MUM-125",
+    "offense_section": "",
+    "offense_name_en": "MMVR 226/177 MVA Unsafe Towing while towing another vehicle",
+    "fine": "Repetitive",
+    "repetitive_fine": "Fine",
+    "raw_text": "MMVR 226/177 MVA Unsafe Towing while towing another vehicle असुरिƗतओढणे ‐ दुस̴या वाहनानं ओढणे 500 1,500Sr. No.  Offense Section Offense Name ‐ English  Offense Name ‐ Ma rathi Fine Repetitive Fine"
+  },
+  {
+    "id": "MUM-126",
+    "offense_section": "",
+    "offense_name_en": "MMVR 162/177 MVA Driver found watc hing digital motion",
+    "fine": "pictures/videos",
+    "repetitive_fine": "while",
+    "raw_text": "MMVR 162/177 MVA Driver found watc hing digital motion pictures/videos while"
+  },
+  {
+    "id": "MUM-127",
+    "offense_section": "",
+    "offense_name_en": "Sec 178(3) MVA Refusal to ply auto Rickshaw or to carry passe nger",
+    "fine": "50",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 178(3) MVA Refusal to ply auto Rickshaw or to carry passe nger įरƗा / टॅƛ ी भाǰा ने देǻास नकार देणे 50 Same"
+  },
+  {
+    "id": "MUM-128",
+    "offense_section": "",
+    "offense_name_en": "Sec 178(3) MVA Refusal to ply taxi / bus or to carry passenge r",
+    "fine": "200",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 178(3) MVA Refusal to ply taxi / bus or to carry passenge r टॅƛ ी / बस भाǰावर देǻास नकार देणे 200 Same"
+  },
+  {
+    "id": "MUM-129",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "200",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 1) Excess passenger 1 ( Driver ) 1  अितरीƅ Ůवासी वाहतुक (चालक) 200 Same"
+  },
+  {
+    "id": "MUM-130",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "authorized",
+    "repetitive_fine": "possession",
+    "raw_text": "Sec 194A MVA ‐ (Extra 1) Excess passenger 1 (Owner or person  in authorized possession"
+  },
+  {
+    "id": "MUM-001",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "अिधकृ",
+    "repetitive_fine": "त",
+    "raw_text": "अितरीƅ Ůवासी वाहतुक (मालक िकं वा  वाहनाचा अिधकृ त"
+  },
+  {
+    "id": "MUM-131",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "400",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 2) Excess passengers 2 ( Driver ) 2  अितरीƅ Ůवासी वाहतुक (चालक) 400 Same"
+  },
+  {
+    "id": "MUM-132",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 2) Excess passengers 2 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-002",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "अिधकृ",
+    "repetitive_fine": "त",
+    "raw_text": "अितरीƅ Ůवासी वाहतुक (मालक िकं वा  वाहनाचा अिधकृ त"
+  },
+  {
+    "id": "MUM-133",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "600",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 3) Excess passengers 3 ( Driver ) 3  अितरीƅ Ůवासी वाहतुक (चालक) 600 Same"
+  },
+  {
+    "id": "MUM-134",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 3) Excess passengers 3 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-003",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "अिधकृ",
+    "repetitive_fine": "त",
+    "raw_text": "अितरीƅ Ůवासी वाहतुक (मालक िकं वा  वाहनाचा अिधकृ त"
+  },
+  {
+    "id": "MUM-135",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "800",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 4) Excess passengers 4 ( Driver ) 4  अितरीƅ Ůवासी वाहतुक (चालक) 800 Same"
+  },
+  {
+    "id": "MUM-136",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 4) Excess passengers 4 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-004",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "अिधकृ",
+    "repetitive_fine": "त",
+    "raw_text": "अितरीƅ Ůवासी वाहतुक (मालक िकं वा  वाहनाचा अिधकृ त"
+  },
+  {
+    "id": "MUM-137",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "1,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 5) Excess passengers 5 ( Driver ) 5  अितरीƅ Ůवासी वाहतुक (चालक) 1,000 Same"
+  },
+  {
+    "id": "MUM-138",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 5) Excess passengers 5 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-005",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "अिधकृ",
+    "repetitive_fine": "त",
+    "raw_text": "अितरीƅ Ůवासी वाहतुक (मालक िकं वा  वाहनाचा अिधकृ त"
+  },
+  {
+    "id": "MUM-139",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "1,200",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 6) Excess passengers 6 ( Driver ) ६अ ितरीƅ Ůवासी वाहतुक (चालक) 1,200 Same"
+  },
+  {
+    "id": "MUM-140",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 6) Excess passengers 6 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-141",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "1,400",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 7) Excess passengers 7 ( Driver ) ७अ ितरीƅ Ůवासी वाहतुक (चालक) 1,400 Same"
+  },
+  {
+    "id": "MUM-142",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 7) Excess passengers 7 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-143",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "1,600",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 8) Excess passengers 8 ( Driver ) ८अ ितरीƅ Ůवासी वाहतुक (चालक) 1,600 Same"
+  },
+  {
+    "id": "MUM-144",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 8) Excess passengers 8 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-145",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "1,800",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 9) Excess passengers 9 ( Driver ) ९अ ितरीƅ Ůवासी वाहतुक (चालक) 1,800 Same"
+  },
+  {
+    "id": "MUM-146",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 9) Excess passengers 9 (Owner or person  in authorized"
+  },
+  {
+    "id": "MUM-147",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "2,000",
+    "repetitive_fine": "Same",
+    "raw_text": "Sec 194A MVA ‐ (Extra 10) Excess passengers 10 ( Driver ) १० अितरीƅ Ůवासी वाहतुक (चालक) 2,000 Same"
+  },
+  {
+    "id": "MUM-148",
+    "offense_section": "",
+    "offense_name_en": "Sec 194A MVA",
+    "fine": "in",
+    "repetitive_fine": "authorized",
+    "raw_text": "Sec 194A MVA ‐ (Extra 10) Excess passengers 10 (Owner or pers on in authorized"
+  },
+  {
+    "id": "MUM-0१०",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "अिधकृ",
+    "repetitive_fine": "त",
+    "raw_text": "अितरीƅ Ůवासी वाहतुक (मालक िकं वा वाहनाचा अिधकृ त"
+  },
+  {
+    "id": "MUM-149",
+    "offense_section": "",
+    "offense_name_en": "MMVR 23(1)/177 MVA Excess number of persons sitting in cabin of goods carriage",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 23(1)/177 MVA Excess number of persons sitting in cabin  of goods carriage मालवाŠचालकाǉा खोलीत (कॅ बीन) अितरीƅइ स म बसलेले 500 1,500"
+  },
+  {
+    "id": "MUM-150",
+    "offense_section": "",
+    "offense_name_en": "MMVR 228/177 MVA Driving vehicle on Footpath/Cycle track with out",
+    "fine": "Permission",
+    "repetitive_fine": "of",
+    "raw_text": "MMVR 228/177 MVA Driving vehicle on Footpath/Cycle track with out Permission of"
+  },
+  {
+    "id": "MUM-151",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Displaying / in scribing or writing letter / word / figure",
+    "fine": "/",
+    "repetitive_fine": "picture",
+    "raw_text": "CMVR 50/177 MVA Displaying / in scribing or writing letter / word / figure / picture"
+  },
+  {
+    "id": "MUM-152",
+    "offense_section": "",
+    "offense_name_en": "CMVR 50/177 MVA Driving or park ing vehicle on public road",
+    "fine": "without",
+    "repetitive_fine": "number",
+    "raw_text": "CMVR 50/177 MVA Driving or park ing vehicle on public road without number"
+  },
+  {
+    "id": "MUM-153",
+    "offense_section": "",
+    "offense_name_en": "MMVR 236/177 MVA Hiding fully/partly number plate by placing load/other goods/",
+    "fine": "वा",
+    "repetitive_fine": "अंशतः",
+    "raw_text": "MMVR 236/177 MVA Hiding fully/partly number plate by placing  load/other goods/ भार िकं वा इतर मालामुळे  Ţमांक फलक पुणŊतः िकं वा अंशतः"
+  },
+  {
+    "id": "MUM-154",
+    "offense_section": "",
+    "offense_name_en": "MMVR 237/177 MVA Not Stopping before stop line",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 237/177 MVA Not Stopping before stop line थांबा रेषा (ːॉप लाईन) अगोदर वाहन थांबिवले नाही 500 1,500"
+  },
+  {
+    "id": "MUM-155",
+    "offense_section": "",
+    "offense_name_en": "Sec 194B(2) MVA Child up to 14 years age not provided seat wi",
+    "fine": "th",
+    "repetitive_fine": "appropriate",
+    "raw_text": "Sec 194B(2) MVA Child up to 14 years age not provided seat wi th appropriate"
+  },
+  {
+    "id": "MUM-156",
+    "offense_section": "",
+    "offense_name_en": "Sec 194B(2) MVA Child up to 14 years age not provided seat wi",
+    "fine": "th",
+    "repetitive_fine": "appropriate",
+    "raw_text": "Sec 194B(2) MVA Child up to 14 years age not provided seat wi th appropriate"
+  },
+  {
+    "id": "MUM-157",
+    "offense_section": "",
+    "offense_name_en": "MMVR 231(1)/177 MVA Loud music played in vehicle",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 231(1)/177 MVA Loud music played in vehicle वाहनात मोǬ ा आवाजात संगीत लावणे 500 1,500"
+  },
+  {
+    "id": "MUM-158",
+    "offense_section": "",
+    "offense_name_en": "MMVR 233/177 MVA Restrictions on driving backwards/in reverse direction",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 233/177 MVA Restrictions on driving backwards/in reverse  direction वाहन पािठमागे घेǻाबाबत िनबōध. उलट िदशेने 500 1,500"
+  },
+  {
+    "id": "MUM-159",
+    "offense_section": "",
+    "offense_name_en": "MMVR 233/177 MVA Driving backwards/in reverse direction on ro",
+    "fine": "ad/in",
+    "repetitive_fine": "a",
+    "raw_text": "MMVR 233/177 MVA Driving backwards/in reverse direction on ro ad/in a"
+  },
+  {
+    "id": "MUM-160",
+    "offense_section": "",
+    "offense_name_en": "MMVR 230/177 MVA. Restrictions to carry",
+    "fine": "unpacked",
+    "repetitive_fine": "dangerous",
+    "raw_text": "MMVR 230/177 MVA. Restrictions to carry unpacked dangerous"
+  },
+  {
+    "id": "MUM-161",
+    "offense_section": "",
+    "offense_name_en": "Sec 122/177 MVA",
+    "fine": "RW",
+    "repetitive_fine": "Sec",
+    "raw_text": "Sec 122/177 MVA RW Sec"
+  },
+  {
+    "id": "MUM-127",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "MVA",
+    "repetitive_fine": "(Towing)",
+    "raw_text": "MVA (Towing)"
+  },
+  {
+    "id": "MUM-162",
+    "offense_section": "",
+    "offense_name_en": "Sec 194B(1) MVA Without seatbelt other than driver",
+    "fine": "1,000",
+    "repetitive_fine": "NA",
+    "raw_text": "Sec 194B(1) MVA Without seatbelt other than driver चालक ʩितįरƅ सीटबेʐ नसलेले Ůवासी 1,000 NA"
+  },
+  {
+    "id": "MUM-163",
+    "offense_section": "",
+    "offense_name_en": "Sec 122/177 MVA Causing danger, obstructions or undue inconve nience",
+    "fine": "to",
+    "repetitive_fine": "other",
+    "raw_text": "Sec 122/177 MVA Causing danger, obstructions or undue inconve nience to other"
+  },
+  {
+    "id": "MUM-164",
+    "offense_section": "",
+    "offense_name_en": "Sec 194E MVA Not providing way for emergency vehicles",
+    "fine": "(Fire",
+    "repetitive_fine": "service,",
+    "raw_text": "Sec 194E MVA Not providing way  for emergency vehicles (Fire service,"
+  },
+  {
+    "id": "MUM-165",
+    "offense_section": "",
+    "offense_name_en": "Sec 182(1) MVA Driving the vehicle by a person who is disqual ified",
+    "fine": "for",
+    "repetitive_fine": "holding",
+    "raw_text": "Sec 182(1) MVA Driving the vehicle by a person who is disqual ified for holding"
+  },
+  {
+    "id": "MUM-166",
+    "offense_section": "",
+    "offense_name_en": "CMVR 92/177 MVA Unauthorizedly maintained motor vehicle, allowed",
+    "fine": "to",
+    "repetitive_fine": "be",
+    "raw_text": "CMVR 92/177 MVA  Unauthorizedly  maintained motor vehicle, allowed to be"
+  },
+  {
+    "id": "MUM-167",
+    "offense_section": "",
+    "offense_name_en": "CMVR 92/177 MVA Unauthorizedly maintained motor vehicle, allowed",
+    "fine": "to",
+    "repetitive_fine": "be",
+    "raw_text": "CMVR 92/177 MVA  Unauthorizedly  maintained motor vehicle, allowed to be"
+  },
+  {
+    "id": "MUM-168",
+    "offense_section": "",
+    "offense_name_en": "CMVR 9(3)/177 MVA Driver failed to get endorsement in his Dri ving",
+    "fine": "License",
+    "repetitive_fine": "from",
+    "raw_text": "CMVR 9(3)/177 MVA Driver failed to get endorsement in his Dri ving License from"
+  },
+  {
+    "id": "MUM-500",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "1,500",
+    "raw_text": "1,500"
+  },
+  {
+    "id": "MUM-169",
+    "offense_section": "",
+    "offense_name_en": "Sec 184 MVA Dangerous driving",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "Sec 184 MVA Dangerous driving धोकादायकįरȑा वाहन चालिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-170",
+    "offense_section": "",
+    "offense_name_en": "Sec 185 MVA Drunk and Drive",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "Sec 185 MVA Drunk and Drive मȨŮाशन कŝन वाहन चालिवने 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-171",
+    "offense_section": "",
+    "offense_name_en": "Sec 190(1) MVA Driving of defective motor vehicle",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "Sec 190(1) MVA Driving of defective motor vehicle  सदोष मोटारवाहन चालिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-172",
+    "offense_section": "",
+    "offense_name_en": "Sec 190(3) MVA Carrying Hazardous or Dangerous Goods in contr",
+    "fine": "avention",
+    "repetitive_fine": "to",
+    "raw_text": "Sec 190(3) MVA Carrying Hazardous or Dangerous Goods in contr avention to"
+  },
+  {
+    "id": "MUM-173",
+    "offense_section": "",
+    "offense_name_en": "Sec 197 MVA Custody of Motor Vehicle without consent of",
+    "fine": "Owner",
+    "repetitive_fine": "or",
+    "raw_text": "Sec 197 MVA Custody of Motor Vehicle without consent of Owner  or"
+  },
+  {
+    "id": "MUM-174",
+    "offense_section": "",
+    "offense_name_en": "MVDR 9/177A MVA Not Slowing Down at Junction and Zebra Crossi ng",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 9/177A MVA Not Slowing Down at Junction and Zebra Crossi ng चौक िकं वा पादचारी सारणी येथे वेगक मी न करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-175",
+    "offense_section": "",
+    "offense_name_en": "MVDR 14(2)/177A MVA Overtaking from left",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 14(2)/177A MVA Overtaking from left डाʩा बाजूने ओʬरटेिकं ग करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-176",
+    "offense_section": "",
+    "offense_name_en": "MVDR 6(1)/177A MVA Lane cutting",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 6(1)/177A MVA Lane cutting  मािगŊका छाटणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-177",
+    "offense_section": "",
+    "offense_name_en": "MVDR 4/122 177A MVA Wrong side driving",
+    "fine": "Ɋायालय",
+    "repetitive_fine": "िनदőश)",
+    "raw_text": "MVDR 4/122 177A MVA Wrong side driving  चुकीǉा िदशेने वाहन चालिवणे. (मा.उǄ Ɋायालय िनदőश)"
+  },
+  {
+    "id": "MUM-178",
+    "offense_section": "",
+    "offense_name_en": "MVDR 14(9)/177A MVA Overtaking obstructed",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 14(9)/177A MVA Overtaking obstructed ओʬरटेक करताना अडथळा करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-179",
+    "offense_section": "",
+    "offense_name_en": "MVDR 37(2) 177A MVA NO use of mobile phone by trainer while training learner driver",
+    "fine": "करणा̴या",
+    "repetitive_fine": "ŮिशƗकाने",
+    "raw_text": "MVDR 37(2) 177A MVA  NO use of mobile phone by trainer while  training learner driver िशकवू चालकास ŮिशिƗत करणा̴या ŮिशƗकाने"
+  },
+  {
+    "id": "MUM-180",
+    "offense_section": "",
+    "offense_name_en": "MVDR 14(5)(d)/177A MVA Overtaking on a bend/corner/turning",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 14(5)(d)/177A MVA Overtaking on a bend/corner/turning वळणे / कोपरा / वळताना ओʬरटेक करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-181",
+    "offense_section": "",
+    "offense_name_en": "MVDR 19(2)(ii)/177A MVA Overtaking within barriers of a railw ay crossing",
+    "fine": "Repetitive",
+    "repetitive_fine": "Fine",
+    "raw_text": "MVDR 19(2)(ii)/177A MVA Overtaking within barriers of a railw ay crossing रेʢे ओलांडणी Ůितबंधीत Ɨेũातओʬरटेक करणे 0 Non‐Compoundable Sr. No.  Offense Section Offense Name ‐ English  Offense Name ‐ Ma rathi Fine Repetitive Fine"
+  },
+  {
+    "id": "MUM-182",
+    "offense_section": "",
+    "offense_name_en": "MVDR 14(5)(e)/177A MVA Overtaking at junctions/intersections/ zebra crossing",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 14(5)(e)/177A MVA Overtaking at junctions/intersections/ zebra crossing चौक / छे दरˑा / पादचारी सारणी येथे ओʬरटेक करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-183",
+    "offense_section": "",
+    "offense_name_en": "MVDR 14(5)(h)/177A MVA Overtaking in School/Hospital/Construc tion Zone area",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 14(5)(h)/177A MVA Overtaking in School/Hospital/Construc tion Zone area शाळा / Ŝƫालय / बांधकाम Ɨेũपįरसरात ओʬरटेक करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-184",
+    "offense_section": "",
+    "offense_name_en": "MVDR 14(7)/177A MVA Giving right turn indicator to following vehicle for overtaking",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 14(7)/177A MVA Giving right  turn indicator to following vehicle for overtaking ओʬरटेक करǻासाठ ी उजवा दशŊक देणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-185",
+    "offense_section": "",
+    "offense_name_en": "MVDR 20(2)/177A MVA",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 20(2)/177A MVA Overtaking/U‐Turn/drive backward in a tun nel बोगȨातओʬरटेक / यु वळण / मागे चालिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-186",
+    "offense_section": "",
+    "offense_name_en": "MVDR 4(5)6(2)/177A MVA Heavy vehicles continuously driving in right lane",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 4(5)6(2)/177A MVA Heavy vehicles continuously driving in  right lane  अवजड वाहन अखंिडत उजʩा मािगŊके तून चालिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-187",
+    "offense_section": "",
+    "offense_name_en": "MVDR 6(4)/177A MVA Driver crossing white/yellow Solid lane li nes at",
+    "fine": "time",
+    "repetitive_fine": "of",
+    "raw_text": "MVDR 6(4)/177A MVA Driver crossing white/yellow Solid lane li nes at time of"
+  },
+  {
+    "id": "MUM-188",
+    "offense_section": "",
+    "offense_name_en": "MVDR 11(1)/177A MVA Turning left/right without hand signal in dication",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 11(1)/177A MVA Turning left/right without hand signal in dication हाताने संके त न करता डावे / उजवे वळण घेणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-189",
+    "offense_section": "",
+    "offense_name_en": "MVDR 16(4)/177A MVA Driving slowly without good and sufficien t reason",
+    "fine": "to",
+    "repetitive_fine": "impede",
+    "raw_text": "MVDR 16(4)/177A MVA Driving slowly without good and sufficien t reason to impede"
+  },
+  {
+    "id": "MUM-190",
+    "offense_section": "",
+    "offense_name_en": "MVDR 17(2)/177A MVA Applying s udden brake without genuine reason",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 17(2)/177A MVA Applying s udden brake without genuine reason िवना कारण अचानक गती रोधकाचा (Űेक) वापर के ला 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-191",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(n)/177A MVA Parking the vehicle alongside another parked",
+    "fine": "vehicle/",
+    "repetitive_fine": "Double",
+    "raw_text": "MVDR 22(2)(n)/177A MVA Parking  the vehicle alongside another parked vehicle/ Double"
+  },
+  {
+    "id": "MUM-192",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(c)/177A MVA Parking the vehicle on footpath / cycl e track & zebra crossing",
+    "fine": "सदरणीवर",
+    "repetitive_fine": "वाहन",
+    "raw_text": "MVDR 22(2)(c)/177A MVA Parking the vehicle on footpath / cycl e track & zebra crossing पदपथावर दुचाकी मागाŊवर आिण  पादचारी सदरणीवर वाहन"
+  },
+  {
+    "id": "MUM-193",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(b)/177A MVA Parking Vehicle on main road where not ified speed",
+    "fine": "limit",
+    "repetitive_fine": "is",
+    "raw_text": "MVDR 22(2)(b)/177A MVA Parking Vehicle on main road where not ified speed limit is"
+  },
+  {
+    "id": "MUM-0५०",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "िकमी वेग मयाŊदा असलेʞा र˒ावर वाहन उभे करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-194",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(l)/177A MVA Parking the vehicle opposite another M V or as",
+    "fine": "obstruction",
+    "repetitive_fine": "to",
+    "raw_text": "MVDR 22(2)(l)/177A MVA Parking the vehicle opposite another M V or as obstruction to"
+  },
+  {
+    "id": "MUM-195",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(s)/177A MVA Parking the vehicle in \"No Parking\" ar ea",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(s)/177A MVA Parking the vehicle in \"No Parking\" ar ea ‘‘ उभे कŝ नये ’’ Ɨेũात वाहन उभे करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-196",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(s)/177A MVA No Parking",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(s)/177A MVA No Parking वाहन लावǻास मनाई 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-197",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(s)/177A MVA NO PARKING (Clamping)",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(s)/177A MVA NO PARKING (Clamping) वाहन लावǻास मनाई(पकडणे) 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-198",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(k)/177A MVA Parking the vehicle away from the edge of the footpath",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(k)/177A MVA Parking the vehicle away from the edge  of the footpath पदपथाǉा िकना̴यापासुन दुर वाहन उभे करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-199",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(f)/177A MVA Parking the vehicle near bus stop / at educational",
+    "fine": "institution",
+    "repetitive_fine": "/",
+    "raw_text": "MVDR 22(2)(f)/177A MVA Parking the vehicle near bus stop / at  educational institution /"
+  },
+  {
+    "id": "MUM-200",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(a)/177A MVA Parking the vehicle where stopping",
+    "fine": "pro",
+    "repetitive_fine": "hibited/Vehicle",
+    "raw_text": "MVDR 22(2)(a)/177A MVA Parking the vehicle where stopping pro hibited/Vehicle"
+  },
+  {
+    "id": "MUM-201",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(g)/177A MVA Parking the vehicle in a tunnel",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(g)/177A MVA Parking the vehicle in a tunnel बोगȨातवाहन उभे करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-202",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(h)/177A MVA Parking the vehicle in bus lane",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(h)/177A MVA Parking the vehicle in bus lane बस मािगŊके त वाहन उभे करणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-203",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(i)/177A MVA Parking the vehicle in front of entran ce or exit of property",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(i)/177A MVA Parking the vehicle in front of entran ce or exit of property मालमȅा आगमन िकं वा िनगŊमन ̺दारा समोर वाहन उभे करणे. 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-204",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(m)/177A MVA Parking the vehicle obstructing other vehicle",
+    "fine": "or",
+    "repetitive_fine": "cause",
+    "raw_text": "MVDR 22(2)(m)/177A MVA Parking the vehicle obstructing other  vehicle or cause"
+  },
+  {
+    "id": "MUM-205",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(d)/177A MVA Parking Vehicle within 50 mtr from the edge of",
+    "fine": "Junction",
+    "repetitive_fine": "or",
+    "raw_text": "MVDR 22(2)(d)/177A MVA Parking Vehicle within 50 mtr from the  edge of Junction or"
+  },
+  {
+    "id": "MUM-206",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(j)/177A MVA Park Vehicle on Continuous yellow line Painted on",
+    "fine": "curve",
+    "repetitive_fine": "side",
+    "raw_text": "MVDR 22(2)(j)/177A MVA Park Vehicle on Continuous yellow line  Painted on curve side"
+  },
+  {
+    "id": "MUM-207",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(0)/177A MVA Park Vehicle in permitted parking plac e",
+    "fine": "beyond",
+    "repetitive_fine": "permitted",
+    "raw_text": "MVDR 22(2)(0)/177A MVA Park Vehicle in permitted parking plac e beyond permitted"
+  },
+  {
+    "id": "MUM-208",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(P)/177A MVA Parked v ehicle is other than permitted specified Category",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(2)(P)/177A MVA Parked v ehicle is other than permitted specified Category  उभे के लेले वाहन हे िविशʿ वगाŊसाठीǉा परवाणगीपैकी नाही. 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-209",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(2)(R)/177A MVA Not Parking Vehicle as designated in p arking lot",
+    "fine": "Ůकारे",
+    "repetitive_fine": "वाहन",
+    "raw_text": "MVDR 22(2)(R)/177A MVA Not Parking Vehicle as designated in p arking lot  उभे करǻासाठ ीǉा गटासाठी िनदőिशत के ʞा Ůकारे वाहन"
+  },
+  {
+    "id": "MUM-210",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(v)/177A MVA Stopping Vehicle on a level Crossing",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(1)(v)/177A MVA Stopping  Vehicle on a level Crossing  रेʢे ओलांडणी Ůितबंधीत Ɨेũातवाहन थांबिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-211",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(ix)/177A MVA Stopping the vehicle at mandatory \"No stopping\" sign",
+    "fine": "असलेʞा",
+    "repetitive_fine": "िठकाणी",
+    "raw_text": "MVDR 22(1)(ix)/177A MVA Stopping the vehicle at mandatory \"No  stopping\" sign थांबू नये (नो ːोिपंग) या आǒाधारक िचɎ असलेʞा िठकाणी"
+  },
+  {
+    "id": "MUM-212",
+    "offense_section": "",
+    "offense_name_en": "MVDR 20 (3)/177A MVA Parking/St opping vehicle in a tunnel without genuine reason",
+    "fine": "Repetitive",
+    "repetitive_fine": "Fine",
+    "raw_text": "MVDR 20 (3)/177A MVA Parking/St opping vehicle in a tunnel without genuine reason बोगȨाजवळसबळ कारणािशवाय वाहन थांबिवणे / उभे करणे 0 Non‐Compoundable Sr. No.  Offense Section Offense Name ‐ English  Offense Name ‐ Ma rathi Fine Repetitive Fine"
+  },
+  {
+    "id": "MUM-213",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(i)/177A MVA Stopping the vehicle at narrow road",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(1)(i)/177A MVA Stopping the vehicle at narrow road अŜं द र˒ावर वाहन थांबिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-214",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1) (ii)/177A MVA Stopping the vehicle near or on a sh arp bend",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(1) (ii)/177A MVA Stopping the vehicle near or on a sh arp bend तीˁ वळणावर िकं वा जवळ वाहन थांबिवणे. 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-215",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1) (iii)/177A MVA Stopping Vehicle in an acceleration /Deceleration lane",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(1) (iii)/177A  MVA Stopping Vehicle in an acceleration  /Deceleration lane चढण / उतार मािगŊके त वाहन थांबिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-216",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(iv)/177A MVA Stopping the vehicle on 5 meters befo re pedestrian crossing",
+    "fine": "आत",
+    "repetitive_fine": "वाहन",
+    "raw_text": "MVDR 22(1)(iv)/177A MVA Stopping the vehicle on 5 meters befo re pedestrian crossing पादचारी सारणी  पासुन पाच िमटर  अंतराǉा आत वाहन"
+  },
+  {
+    "id": "MUM-217",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(vi)/177A MVA Stopping Vehicle 5 Mtrs or less befor e light signal",
+    "fine": "or",
+    "repetitive_fine": "\"GIVE",
+    "raw_text": "MVDR 22(1)(vi)/177A MVA Stopping Vehicle 5 Mtrs or less befor e light signal or \"GIVE"
+  },
+  {
+    "id": "MUM-000",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "Non‐Compoundable"
+  },
+  {
+    "id": "MUM-218",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(vii)/177A MVA Stopping the vehicle at bus stand wh en vehicle is",
+    "fine": "other",
+    "repetitive_fine": "than",
+    "raw_text": "MVDR 22(1)(vii)/177A MVA Stopping the vehicle at bus stand wh en vehicle is other than"
+  },
+  {
+    "id": "MUM-219",
+    "offense_section": "",
+    "offense_name_en": "MVDR 22(1)(viii)/177A MVA Stoppi ng Vehicle on yellow box marked on road",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "MVDR 22(1)(viii)/177A MVA Stoppi ng Vehicle on yellow box marked on road र˒ावर िपवʨ ा पेटीत (बॉƛ ) वाहन थांबिवणे 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-220",
+    "offense_section": "",
+    "offense_name_en": "Sec 119/177 MVA. Mandatory traffic sign boards not obeyed",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "Sec 119/177 MVA. Mandatory traffic sign boards not obeyed आǒादशŊक वाहतूक िचɎ फलकाचे अनुपालन के ले नाही 500 1,500"
+  },
+  {
+    "id": "MUM-221",
+    "offense_section": "",
+    "offense_name_en": "MMVR 21(12)/177 Demanding excess fare from the passenger",
+    "fine": "500",
+    "repetitive_fine": "1,500",
+    "raw_text": "MMVR 21(12)/177 Demanding excess fare from the passenger Ůवाशांकडू न जादा भाǰाच ी माग 500 1,500"
+  },
+  {
+    "id": "MUM-222",
+    "offense_section": "",
+    "offense_name_en": "CMVR 104(1) (i & ii)/177 MVA Goods Carrier MV without white r eflector at front",
+    "fine": "पांढरा",
+    "repetitive_fine": "परावतŊक",
+    "raw_text": "CMVR 104(1) (i & ii)/177 MVA Goods Carrier MV without white r eflector at front  माल वाहतुक मोटार वाहनांस पुढील भागास पांढरा परावतŊक"
+  },
+  {
+    "id": "MUM-223",
+    "offense_section": "",
+    "offense_name_en": "CMVR 104(1) (iii)/177 MVA HMV G oods Carrier without reflective contour marking",
+    "fine": "at",
+    "repetitive_fine": "rear",
+    "raw_text": "CMVR 104(1) (iii)/177 MVA HMV G oods Carrier without reflective contour marking at rear"
+  },
+  {
+    "id": "MUM-224",
+    "offense_section": "",
+    "offense_name_en": "CMVR 104(1) (iv)/177 MVA Passenger Carrier MV without reflect ors at front",
+    "fine": "white,",
+    "repetitive_fine": "both",
+    "raw_text": "CMVR 104(1) (iv)/177 MVA Passenger Carrier MV without reflect ors at front ‐ white, both"
+  },
+  {
+    "id": "MUM-225",
+    "offense_section": "",
+    "offense_name_en": "CMVR 104(1) (v)/177 MVA Rickshaw, 3 wheeler Goods Carrier,",
+    "fine": "Rickshaw,",
+    "repetitive_fine": "e‐Cart",
+    "raw_text": "CMVR 104(1) (v)/177 MVA Rickshaw, 3 wheeler Goods Carrier, e‐ Rickshaw, e‐Cart"
+  },
+  {
+    "id": "MUM-226",
+    "offense_section": "",
+    "offense_name_en": "CMVR 138(4)(C)/177 MVA",
+    "fine": "vehicle",
+    "repetitive_fine": "weight",
+    "raw_text": "CMVR 138(4)(C)/177 MVA M‐1 = 9+1 or more seating capacity or  gross vehicle weight"
+  },
+  {
+    "id": "MUM-227",
+    "offense_section": "",
+    "offense_name_en": "Sec 99/117 MPA 1951",
+    "fine": "(योƶ",
+    "repetitive_fine": "रˑा",
+    "raw_text": "Sec 99/117 MPA 1951 U‐turn at prohibited U turn place. (Devia tion) युटनŊŮितबंिधत ठीकाणी वाहनाने युटनŊघेतला (योƶ रˑा"
+  },
+  {
+    "id": "MUM-228",
+    "offense_section": "",
+    "offense_name_en": "Sec 99/117 MPA 1951 No entry / One way Traffic Signs violated by the",
+    "fine": "vehicle",
+    "repetitive_fine": "driver",
+    "raw_text": "Sec 99/117 MPA 1951 No entry / One way Traffic Signs violated  by the vehicle driver"
+  },
+  {
+    "id": "MUM-229",
+    "offense_section": "",
+    "offense_name_en": "Sec 99/117 MPA 1951 Vehicle driver failed to drive vehicle on left side of the road",
+    "fine": "0",
+    "repetitive_fine": "Non‐Compoundable",
+    "raw_text": "Sec 99/117 MPA 1951 Vehicle driver failed to drive vehicle on  left side of the road  वाहन चालकाने र˒ाǉ ा डाʩा बाजूने  वाहन चालिवले नाही 0 Non‐Compoundable"
+  },
+  {
+    "id": "MUM-230",
+    "offense_section": "",
+    "offense_name_en": "Sec 99/117 MPA 1951 Vehicle driver overtook other vehicle or motor",
+    "fine": "vehicle",
+    "repetitive_fine": "from",
+    "raw_text": "Sec 99/117 MPA 1951 Vehicle driver overtook other vehicle or  motor vehicle from"
+  },
+  {
+    "id": "MUM-231",
+    "offense_section": "",
+    "offense_name_en": "Sec 103/117 MPA 1951 Vehicle driv er drew or parked vehicle on footpath",
+    "fine": "िकं",
+    "repetitive_fine": "वा",
+    "raw_text": "Sec 103/117 MPA 1951 Vehicle driv er drew or parked vehicle on footpath  वाहन चालकाने आपले वाहन फू टपाथ वŝन चालिवले िकं वा"
+  },
+  {
+    "id": "MUM-232",
+    "offense_section": "",
+    "offense_name_en": "Sec 102/117 MPA 1951 Parked vehic le at Public place causing obstructions",
+    "fine": "to",
+    "repetitive_fine": "other",
+    "raw_text": "Sec 102/117 MPA 1951 Parked vehic le at Public place causing obstructions to other"
+  },
+  {
+    "id": "MUM-233",
+    "offense_section": "",
+    "offense_name_en": "CMVR 108(4)/177 MVA Use of mult",
+    "fine": "shall",
+    "repetitive_fine": "be",
+    "raw_text": "CMVR 108(4)/177 MVA Use of mult i‐coloured red, blue and white light shall be"
+  },
+  {
+    "id": "MUM-500",
+    "offense_section": "",
+    "offense_name_en": "",
+    "fine": "",
+    "repetitive_fine": "1,500",
+    "raw_text": "1,500"
+  }
+]

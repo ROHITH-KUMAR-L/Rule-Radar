@@ -1,0 +1,492 @@
+[
+    {
+        "id": "47c469ed-52d3-4888-830c-437ea953323b",
+        "offense_name_en": "Negligence Driving",
+        "offense_section": "sec",
+        "fine": "184 IMV Act 1000/-",
+        "repetitive_fine": "184 IMV Act 1000/-"
+    },
+    {
+        "id": "c3ab67cc-e8e7-4c4d-9ca1-e51bf949161c",
+        "offense_name_en": "Over-speed driving / 2 Wheeler / 3 Wheeler/ LMV",
+        "offense_section": "sec",
+        "fine": "112 r/w 183 (1) (i) IMV Act 1000/-",
+        "repetitive_fine": "112 r/w 183 (1) (i) IMV Act 1000/-"
+    },
+    {
+        "id": "dadcac7b-a1b6-4b65-a189-952d5ae2deb4",
+        "offense_name_en": "Over Speed Driving HMV MGV/ MPV",
+        "offense_section": "sec",
+        "fine": "112 r/w 183 (1) (i) IMV Act 2000/-",
+        "repetitive_fine": "112 r/w 183 (1) (i) IMV Act 2000/-"
+    },
+    {
+        "id": "c201ee39-6ef7-45fb-86c6-2ad428729e98",
+        "offense_name_en": "Stopping/parking in the middle of the road",
+        "offense_section": "sec",
+        "fine": "117 r/w 177 IMV ACT 1000/-",
+        "repetitive_fine": "117 r/w 177 IMV ACT 1000/-"
+    },
+    {
+        "id": "91f018b6-c460-49b6-9828-915ad7bf3497",
+        "offense_name_en": "Not wearing uniforms",
+        "offense_section": "rule",
+        "fine": "14 (a) (b) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "14 (a) (b) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "c8e70000-a646-4a3b-9f46-062fe963c655",
+        "offense_name_en": "Violating the DC Order",
+        "offense_section": "rule",
+        "fine": "69 r/w 177 IMV Act Court fine",
+        "repetitive_fine": "69 r/w 177 IMV Act Court fine"
+    },
+    {
+        "id": "bd365305-49ed-4217-b26c-4847a85e2d18",
+        "offense_name_en": "Blowing the Horn Loudly",
+        "offense_section": "rule",
+        "fine": "211(2) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "211(2) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "cdacc317-66d3-424e-b933-2611420bc27b",
+        "offense_name_en": "Without bulb horn",
+        "offense_section": "CMV Rule",
+        "fine": "119 r/w 177 IMC Act 500/-",
+        "repetitive_fine": "119 r/w 177 IMC Act 500/-"
+    },
+    {
+        "id": "09dc45fb-8a3a-4c12-9122-d344adb87fe5",
+        "offense_name_en": "Driving without brake light",
+        "offense_section": "CMV Rule",
+        "fine": "108 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "108 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "32bba804-45ac-4ba0-b16a-363640649b70",
+        "offense_name_en": "Driving without headlight",
+        "offense_section": "CMV Rule",
+        "fine": "105 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "105 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "4dff6989-4700-4144-892c-15f1b21b67da",
+        "offense_name_en": "Using Eye-catching headlight",
+        "offense_section": "CMV rule",
+        "fine": "106 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "106 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "9c4b7e1c-2b6b-4daa-a118-9bcd3e98161c",
+        "offense_name_en": "Transporting people in a Goods vehicle",
+        "offense_section": "sec",
+        "fine": "66r/w 192(A) IMV Act court fine , DL, Permit , RC Cancellation",
+        "repetitive_fine": "66r/w 192(A) IMV Act court fine , DL, Permit , RC Cancellation"
+    },
+    {
+        "id": "2fd4abf1-234d-4007-9a7f-eb17371d5c36",
+        "offense_name_en": "Allowing Passengers to sit in vehicle Cabin",
+        "offense_section": "rule",
+        "fine": "15(a) r/w 177 IMV Act 200/-",
+        "repetitive_fine": "15(a) r/w 177 IMV Act 200/-"
+    },
+    {
+        "id": "6c472570-6ca5-4281-b057-b0965207f426",
+        "offense_name_en": "Violation of license condition",
+        "offense_section": "sec",
+        "fine": "66 r/w 192 (A) IMV Act Court fine",
+        "repetitive_fine": "66 r/w 192 (A) IMV Act Court fine"
+    },
+    {
+        "id": "c4914ded-6d27-4859-b990-76235cf898f0",
+        "offense_name_en": "Refuse to sign a police notice and mis-behaving",
+        "offense_section": "sec",
+        "fine": "179 IMV Act 2000/-",
+        "repetitive_fine": "179 IMV Act 2000/-"
+    },
+    {
+        "id": "1350eaf8-e6aa-4242-9810-77c2053f812e",
+        "offense_name_en": "Stopping the vehicle at the bus stop",
+        "offense_section": "R.R. Rule",
+        "fine": "15(2) (viii) r/w 177 IMV Act 1000/-",
+        "repetitive_fine": "15(2) (viii) r/w 177 IMV Act 1000/-"
+    },
+    {
+        "id": "97af2246-2ff3-4e20-9b64-b28f15bb607e",
+        "offense_name_en": "Driving without Driving License",
+        "offense_section": "sec",
+        "fine": "3(1) r/w 181 IMV Act 2w& 3 W – 1000/- LMV - 2000/- Others - 5000/-",
+        "repetitive_fine": "3(1) r/w 181 IMV Act 2w& 3 W – 1000/- LMV - 2000/- Others - 5000/-"
+    },
+    {
+        "id": "b3a44dc5-2db7-4f5a-b024-703c97e2949b",
+        "offense_name_en": "Not showing the Driving license for verification",
+        "offense_section": "sec",
+        "fine": "3(1) r/w 181 IMV Act 2w& 3 W – 1000/- LMV - 2000/- Others - 5000/-",
+        "repetitive_fine": "3(1) r/w 181 IMV Act 2w& 3 W – 1000/- LMV - 2000/- Others - 5000/-"
+    },
+    {
+        "id": "d0fa0c5c-9748-470a-af54-6387788b6370",
+        "offense_name_en": "Giving Vehicle to those who do not have Driving license",
+        "offense_section": "sec",
+        "fine": "5(1) r/w 180 IMV Act 2w& 3 W – 1000/- LMV - 2000/- Others - 5000/-",
+        "repetitive_fine": "5(1) r/w 180 IMV Act 2w& 3 W – 1000/- LMV - 2000/- Others - 5000/-"
+    },
+    {
+        "id": "f300d50d-07ba-4158-a398-6cab4fb6a018",
+        "offense_name_en": "Minor Driving",
+        "offense_section": "sec",
+        "fine": "4 r/w 181 IMV Act Court Fine",
+        "repetitive_fine": "4 r/w 181 IMV Act Court Fine"
+    },
+    {
+        "id": "cd06314e-ffb1-4ee9-8457-cc72804a2bbb",
+        "offense_name_en": "Giving Vehicle to minors for riding",
+        "offense_section": "sec",
+        "fine": "5(1) r/w 180 IMV Act Court Fine(25,000/- 2 years jail",
+        "repetitive_fine": "5(1) r/w 180 IMV Act Court Fine(25,000/- 2 years jail"
+    },
+    {
+        "id": "2fd66838-a2ab-42df-b623-7d82c58315a7",
+        "offense_name_en": "Without First Aid Box",
+        "offense_section": "Rule",
+        "fine": "13(v)r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "13(v)r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "8860e91f-ac4f-4cb1-b1c2-b7a7722747c3",
+        "offense_name_en": "Vehicle details not written on Vehicle Body",
+        "offense_section": "Rule",
+        "fine": "199 r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "199 r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "53b038ce-b555-410d-b955-e56df3053377",
+        "offense_name_en": "Defective / without number plate",
+        "offense_section": "CMV Rule",
+        "fine": "51 /r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "51 /r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "d2995013-9235-45b0-9dd2-e5e51d6d2832",
+        "offense_name_en": "without Side mirror",
+        "offense_section": "Rule",
+        "fine": "138 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "138 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "d5ca0a28-2446-4441-8f2c-8c0b5d4679ee",
+        "offense_name_en": "No hand breaks",
+        "offense_section": "CMV Rule",
+        "fine": "96(1) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "96(1) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "884da2ba-d637-433a-a54f-5e2f427ef466",
+        "offense_name_en": "Giving private car for rent",
+        "offense_section": "Sec",
+        "fine": "53(1)(b) r/w 192 IMV ACT Court Fine",
+        "repetitive_fine": "53(1)(b) r/w 192 IMV ACT Court Fine"
+    },
+    {
+        "id": "ef2b22f0-6c3d-4058-b1c2-23fd4a0ad12c",
+        "offense_name_en": "Driving with bald tires",
+        "offense_section": "CMV Rule",
+        "fine": "94(1) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "94(1) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "d3699568-1453-4b21-a50c-804982cb8ae4",
+        "offense_name_en": "Without Complaint Box",
+        "offense_section": "Rule",
+        "fine": "96 r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "96 r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "fc90b211-39cf-4cb0-b232-d87027014861",
+        "offense_name_en": "Without fire safety Equipment’s",
+        "offense_section": "Rule",
+        "fine": "167 r/w 177 IMV ACT 500 /_",
+        "repetitive_fine": "167 r/w 177 IMV ACT 500 /_"
+    },
+    {
+        "id": "115ca549-1447-4372-b6fc-1efd61291d3d",
+        "offense_name_en": "Smoking & Driving",
+        "offense_section": "Rule",
+        "fine": "13(b) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "13(b) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "e1a9a59c-2149-48b8-a0f0-d3100176eead",
+        "offense_name_en": "violating traffic lights",
+        "offense_section": "Rule",
+        "fine": "219 r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "219 r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "fe8efea9-6364-45fb-b822-52207928747a",
+        "offense_name_en": "Violating traffic signal",
+        "offense_section": "Sec",
+        "fine": "119 r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "119 r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "5cd6c654-c5f5-4185-bc70-cc99be0083ba",
+        "offense_name_en": "Driving against one-way",
+        "offense_section": "Rule",
+        "fine": "218 r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "218 r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "992c564c-2822-4633-a69a-b596fe3d37ff",
+        "offense_name_en": "Driver without badge",
+        "offense_section": "Rule",
+        "fine": "12(1) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "12(1) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "8c0b6d80-7ad1-4e3e-9d07-1cc9669caf0a",
+        "offense_name_en": "Driving the bus with door open",
+        "offense_section": "Rule",
+        "fine": "115(2) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "115(2) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "49a05ae9-16a5-4c88-9178-129f9ec1f9f2",
+        "offense_name_en": "Boarding the passengers at a non-stop location",
+        "offense_section": "Rule",
+        "fine": "102(i)(ii) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "102(i)(ii) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "df5bf29d-22f6-412d-96d0-c59e348b490a",
+        "offense_name_en": "Not showing the License / Insurance / Registration /Fitness Certificate.",
+        "offense_section": "Rule",
+        "fine": "13(r)(i)(ii)(iii)(iv) r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "13(r)(i)(ii)(iii)(iv) r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "b75043d2-588e-450b-b4ed-4a8a688b7a9c",
+        "offense_name_en": "Without emission certificate",
+        "offense_section": "CMV rule",
+        "fine": "115 r/w 190(2) IMV ACT 1000/-",
+        "repetitive_fine": "115 r/w 190(2) IMV ACT 1000/-"
+    },
+    {
+        "id": "46c64227-2550-4d1f-b2a4-f1296e01e4a3",
+        "offense_name_en": "Without Fitness Certificate",
+        "offense_section": "CMV rule",
+        "fine": "52 r/w 192 IMV ACT Court Fine",
+        "repetitive_fine": "52 r/w 192 IMV ACT Court Fine"
+    },
+    {
+        "id": "ea9422b5-19bd-49ab-9c55-9977be581aa7",
+        "offense_name_en": "Without Insurance",
+        "offense_section": "Sec",
+        "fine": "146/ r/w 196 IMV ACT 2w & 3w -1000/- LMV -2000/- OTHERS-4000/-",
+        "repetitive_fine": "146/ r/w 196 IMV ACT 2w & 3w -1000/- LMV -2000/- OTHERS-4000/-"
+    },
+    {
+        "id": "6888f1d0-3851-4556-8554-19a4539eb75f",
+        "offense_name_en": "Carrying the lengthy materials (Goods)",
+        "offense_section": "Rule",
+        "fine": "196 r/w 177 IMV ACT 500/-",
+        "repetitive_fine": "196 r/w 177 IMV ACT 500/-"
+    },
+    {
+        "id": "14014b55-f830-425e-af5e-e3940e1677e9",
+        "offense_name_en": "Overload Driving",
+        "offense_section": "Sec",
+        "fine": "113 r/w 194 IMC ACT Court Fine",
+        "repetitive_fine": "113 r/w 194 IMC ACT Court Fine"
+    },
+    {
+        "id": "88ab287f-0a38-4d97-ba3d-bb5de2d191d5",
+        "offense_name_en": "Not producing Tax card",
+        "offense_section": "Sec",
+        "fine": "5(3) r/w 12(2) KMVT ACT Court Fine",
+        "repetitive_fine": "5(3) r/w 12(2) KMVT ACT Court Fine"
+    },
+    {
+        "id": "3364e53a-3e1a-4284-b4ec-052e9561a467",
+        "offense_name_en": "Carrying Excess passengers in the bus.(Conductor)",
+        "offense_section": "Rule",
+        "fine": "25(8) r/w 177 IMC ACT 200/- Per passenger",
+        "repetitive_fine": "25(8) r/w 177 IMC ACT 200/- Per passenger"
+    },
+    {
+        "id": "fc799290-2578-4f0b-8669-998054798a9d",
+        "offense_name_en": "Allowing the Passengers to stand on foot board",
+        "offense_section": "CMV Rule",
+        "fine": "123 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "123 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "025e6a58-d2f8-4c9b-81f7-0a781a4890d8",
+        "offense_name_en": "Carrying poultry in vehicle.",
+        "offense_section": "Rule",
+        "fine": "74 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "74 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "ae2196a4-ff97-4027-bdf8-4ba9e1f3c59e",
+        "offense_name_en": "Not driving around the circle R.R",
+        "offense_section": "Rule",
+        "fine": "2 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "2 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "38acbf03-615b-483a-b29e-63a46fca6835",
+        "offense_name_en": "Using Mobile Phone while Driving",
+        "offense_section": "Rule",
+        "fine": "230 (A) r/w 177 IMV Act 2w & 3w-1500/- OTHERS-3000/-",
+        "repetitive_fine": "230 (A) r/w 177 IMV Act 2w & 3w-1500/- OTHERS-3000/-"
+    },
+    {
+        "id": "15be987d-0940-4b8f-8a8f-47765b854509",
+        "offense_name_en": "Wrong side Driving R.R",
+        "offense_section": "Rule",
+        "fine": "7 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "7 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "a38b70eb-fb3a-4b4a-b842-3b4025c1c16d",
+        "offense_name_en": "Driving the rickshaw without meter",
+        "offense_section": "Rule",
+        "fine": "16(K) r/w 177 IMV Act 500/- 52 Refusal to come for hire etc., by Auto rickshaw Driver or Taxi Driver Rule 16(B) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "16(K) r/w 177 IMV Act 500/- 52 Refusal to come for hire etc., by Auto rickshaw Driver or Taxi Driver Rule 16(B) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "65a03fd1-3fbc-435e-8300-5f933c23cec5",
+        "offense_name_en": "Demanding Excess Fare",
+        "offense_section": "Rule",
+        "fine": "16(J) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "16(J) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "9127eb73-b9e3-431e-9cd1-fe17f89f507d",
+        "offense_name_en": "Triple riding (two Wheeler)",
+        "offense_section": "Sec",
+        "fine": "128 (a) r/w 177 IMV Act 1000/-",
+        "repetitive_fine": "128 (a) r/w 177 IMV Act 1000/-"
+    },
+    {
+        "id": "6821ac7c-f720-43dc-8d75-466d22bcfe84",
+        "offense_name_en": "Allowing the passenger to sit in the driver seat (rickshaw).",
+        "offense_section": "Rule",
+        "fine": "13 ( N) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "13 ( N) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "9b955af0-593f-4798-801a-150cc8c41da3",
+        "offense_name_en": "Driving without Indicator",
+        "offense_section": "CMV Rule",
+        "fine": "103 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "103 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "be1a6597-ce40-4359-98e7-8425a5d9802d",
+        "offense_name_en": "Driving without temporary registration",
+        "offense_section": "Sec",
+        "fine": "39 r/w 192 IMV Act Court fine",
+        "repetitive_fine": "39 r/w 192 IMV Act Court fine"
+    },
+    {
+        "id": "06cba177-91f0-4d40-8066-436b0965d237",
+        "offense_name_en": "Transporting sand without covering",
+        "offense_section": "Rule",
+        "fine": "182 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "182 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "547a9aee-2f4d-4b09-a287-1a324b84a5db",
+        "offense_name_en": "Driving without seat belt",
+        "offense_section": "CMV Rule",
+        "fine": "125 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "125 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "37e5de58-a864-4e78-bd95-065a496fab34",
+        "offense_name_en": "Fixing Tape recorder",
+        "offense_section": "Rule",
+        "fine": "211 r/w 177 IMV Act 500/-",
+        "repetitive_fine": "211 r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "e4fb0c78-bbf1-4f0d-9467-110885c54ec8",
+        "offense_name_en": "Using tinted glass",
+        "offense_section": "CMV Rule",
+        "fine": "100(2) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "100(2) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "0a70dc3f-67bb-4e1c-9b95-6495a4745046",
+        "offense_name_en": "Defective Silencer",
+        "offense_section": "CMV Rule",
+        "fine": "120 r/w 177 IMV Act 500",
+        "repetitive_fine": "120 r/w 177 IMV Act 500"
+    },
+    {
+        "id": "b73c9d93-4109-4918-bd07-9f6297a7e520",
+        "offense_name_en": "Pillion rider not wearing the helmet",
+        "offense_section": "Rule",
+        "fine": "230(1) r/w 177 IMV Act 500/-",
+        "repetitive_fine": "230(1) r/w 177 IMV Act 500/-"
+    },
+    {
+        "id": "20655d89-8eb7-405c-909f-462dbf6b0924",
+        "offense_name_en": "Driving without Helmet 230 KMV Rules 1989 Sub",
+        "offense_section": "Rule (1)",
+        "fine": "500/-",
+        "repetitive_fine": "500/-"
+    },
+    {
+        "id": "26241bb6-1900-4f19-9e0f-1dca5ba3db60",
+        "offense_name_en": "Parking the vehicle in no parking area/a dangerous / wrong parking",
+        "offense_section": "sec",
+        "fine": "190 (2) of Motor Vehicle Act 1988 ( Central Act 59 of 1988) 1000/-",
+        "repetitive_fine": "190 (2) of Motor Vehicle Act 1988 ( Central Act 59 of 1988) 1000/-"
+    },
+    {
+        "id": "839cc8e2-8822-4a2a-8a4f-34d2a647ee6d",
+        "offense_name_en": "Violation of Government orders, disruption and refusal to provide information",
+        "offense_section": "sec",
+        "fine": "179 (1) & (2) MV Act 1000/-",
+        "repetitive_fine": "179 (1) & (2) MV Act 1000/-"
+    },
+    {
+        "id": "80b87074-4e52-403e-b2a4-f8fbc0fd2264",
+        "offense_name_en": "Driving vehicle during DL suspension period",
+        "offense_section": "sec",
+        "fine": "19 7 20 r/w 182 (1) MV Act 10,000/-",
+        "repetitive_fine": "19 7 20 r/w 182 (1) MV Act 10,000/-"
+    },
+    {
+        "id": "358a6866-81db-4509-bcdb-b700ae52c201",
+        "offense_name_en": "Racing & speedy trial",
+        "offense_section": "sec",
+        "fine": "189 MV Act 5000/- =1sttime 10,000/- = 2 ndtime",
+        "repetitive_fine": "189 MV Act 5000/- =1sttime 10,000/- = 2 ndtime"
+    },
+    {
+        "id": "2e6ac30e-5eaa-40de-9b3b-ef577ba100e8",
+        "offense_name_en": "Driving a vehicle without registration",
+        "offense_section": "sec",
+        "fine": "39 r/w 192(1) MV Act 2w & 3w = 2000/- LMV = 3000/- Others = 5000/-",
+        "repetitive_fine": "39 r/w 192(1) MV Act 2w & 3w = 2000/- LMV = 3000/- Others = 5000/-"
+    },
+    {
+        "id": "d4f719ec-d97d-4933-8f58-96e875ef244c",
+        "offense_name_en": "Driving vehicle with kids on Lap",
+        "offense_section": "sec",
+        "fine": "194-B MV Act 500/-",
+        "repetitive_fine": "194-B MV Act 500/-"
+    },
+    {
+        "id": "02ba7364-1151-43c3-a0dc-a110fa52d8b9",
+        "offense_name_en": "Violating safety rules by rider /pillion rider",
+        "offense_section": "sec",
+        "fine": "194-c MV Act 500/-",
+        "repetitive_fine": "194-c MV Act 500/-"
+    }
+]

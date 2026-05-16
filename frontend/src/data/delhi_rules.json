@@ -1,0 +1,513 @@
+[
+    {
+        "id": "9baadc16-5559-4d5a-9f32-5915b4925b56",
+        "offense_name_en": "Travelling on Running Board(Passengers)",
+        "offense_section": "123(2)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "d55bac5b-1599-4f8a-9d6b-b2514f4726ad",
+        "offense_name_en": "Obstructive Driving(Extra Passenger on Driver Seat)",
+        "offense_section": "125/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "023d5158-5df9-4961-809b-e5453fa34d8e",
+        "offense_name_en": "Triple Riding on two-wheeler",
+        "offense_section": "194C MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "bd80fa22-ef0e-4dd8-9104-9e8da0938d1a",
+        "offense_name_en": "Drive on Footpath/Cycle Track",
+        "offense_section": "39(3)MVDR/177A MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "e7232dca-07b1-4aa5-9aa7-963d5c2e7b44",
+        "offense_name_en": "Violation of Stop Sign",
+        "offense_section": "184 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "170aa77a-14f0-4366-b523-c5fe5853183c",
+        "offense_name_en": "Offences relating to Juvenile",
+        "offense_section": "199A MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "8586e1ba-d5a2-4387-881e-1c9f44704ff8",
+        "offense_name_en": "Plying of old age Diesel/Petrol vehicles(more than15/10 years)",
+        "offense_section": "39/192/207 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "75dae9b1-2789-40d7-9e0a-d01094bd5037",
+        "offense_name_en": "Driving in NMV lanes",
+        "offense_section": "115/194(1) MVA",
+        "fine": "20000",
+        "repetitive_fine": "20000"
+    },
+    {
+        "id": "c87fa2ce-7c87-43b5-97f0-83d3e75d1c62",
+        "offense_name_en": "Not giving way to an emergency vehicle",
+        "offense_section": "194E MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "47a662c2-8ba3-489d-bfa7-94674201c6a6",
+        "offense_name_en": "Disobey of lawful direction in case of an accident or damaging Property",
+        "offense_section": "132/179 MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "2be94637-dfff-41af-b193-4732a7533c55",
+        "offense_name_en": "W/O Permit",
+        "offense_section": "66.1/192(A) MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "c0f72d13-0a5e-43b6-88e3-ba9797f76dcb",
+        "offense_name_en": "Without Log Book",
+        "offense_section": "CMVR 85(10)177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "88e408f6-02aa-4752-a652-39ba9ad090a0",
+        "offense_name_en": "Smoking in the Vehicles",
+        "offense_section": "DMVR 86.1(5)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "e394fcf6-ed74-4219-a2b6-5ebbb6fae8b2",
+        "offense_name_en": "Blowing of Pressure Horn",
+        "offense_section": "39/192 MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "8f05b36b-b2fa-4ee0-aaed-b3574f161c41",
+        "offense_name_en": "Using horn in No Honking/Silence Zone",
+        "offense_section": "194F MVA",
+        "fine": "1000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "b1314522-3936-4e18-b8ad-9fac1aa10957",
+        "offense_name_en": "Use of Coloured Light on Motor",
+        "offense_section": "DMVR 97(2)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "fb6f13b7-e748-4cf7-a8aa-d2da0755a3cc",
+        "offense_name_en": "Excess Smoke",
+        "offense_section": "DMVR 99(1)(a)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "6655d240-7715-4fb1-843a-dcc8fe324e9d",
+        "offense_name_en": "Tinted Glass",
+        "offense_section": "CMVR 100.2/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "a6c9e5ec-9b5b-49f7-973f-99cfd7b0ccad",
+        "offense_name_en": "W/O Wiper",
+        "offense_section": "CMVR 101/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "0c2e1989-4468-4297-a935-b3ed0609a4b5",
+        "offense_name_en": "Playing Music",
+        "offense_section": "DMVR 102/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "767a10c2-096c-46d5-a6b7-9cbdda91fea9",
+        "offense_name_en": "Driving without light after Sunset",
+        "offense_section": "CMVR 105/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "673e6a04-1edc-415f-a347-c728877028e0",
+        "offense_name_en": "Unauthorized Use Siren",
+        "offense_section": "DMVR 107/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "b17f784f-9dfb-45df-ba6d-f28cb11e3a71",
+        "offense_name_en": "Offence Committed by Enforcement Authority",
+        "offense_section": "210B MVA",
+        "fine": "Twice the Penalty corresponding to that an offence under the Act",
+        "repetitive_fine": "Twice the Penalty corresponding to that offence under the Act"
+    },
+    {
+        "id": "bd384a83-94f7-4c16-a1bf-d8d000cf3fde",
+        "offense_name_en": "Violation of Stop Line",
+        "offense_section": "113(1)/177 DMVR",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "850bc408-a291-4a23-b197-fbecfbebb042",
+        "offense_name_en": "Jumping Red Light",
+        "offense_section": "184 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "4a8fba42-4327-4226-8ebc-3b25e8aea54b",
+        "offense_name_en": "Violation of Mandatory Signs(OneWay, No Right Turn)",
+        "offense_section": "119/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "cda15079-d7ab-44cb-b3e9-360c87e0d299",
+        "offense_name_en": "Driving without Horn",
+        "offense_section": "CMVR 119.1/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "2854a38c-f01a-4af6-bd03-ae41c4d89acd",
+        "offense_name_en": "Driving Left Hand Drive Without Indicator",
+        "offense_section": "120/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "a9ed1ba4-e392-4134-ae0a-45a2a248b72d",
+        "offense_name_en": "Improper or Obstructive Parking",
+        "offense_section": "122/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "ceb30602-21dd-4f62-bc3d-cfa42c156472",
+        "offense_name_en": "Travelling on Running Board(Driver)",
+        "offense_section": "123(1)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "6e0e10fe-ff23-4f5b-8044-61d60214394e",
+        "offense_name_en": "CARRYING HIGH/LONG LOAD / Protruding rods",
+        "offense_section": "194(1A) MVA",
+        "fine": "20000",
+        "repetitive_fine": "20000"
+    },
+    {
+        "id": "9b347a0e-6b8c-4e44-8655-25c94de5a5a7",
+        "offense_name_en": "Without Fitness",
+        "offense_section": "56/192 MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "4d46cfe8-b945-4008-90e0-0f6fe22ea643",
+        "offense_name_en": "Using high beam",
+        "offense_section": "112(4)(C)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "87216397-2b90-4119-8c3d-5e2ea997f71f",
+        "offense_name_en": "Wrong Passing or Overtaking other Vehicles",
+        "offense_section": "184 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "e2ed6c3d-a345-40f2-a61e-6a21a2dfe8fe",
+        "offense_name_en": "Rear View Mirror Turned Inwards",
+        "offense_section": "125(2)CMVR 1989/177 MVAct",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "609744d8-e174-4071-b7ec-4fac94a7113a",
+        "offense_name_en": "Helmet W/o strap or Strap Not tied",
+        "offense_section": "194D MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "7f8f1dde-b448-4fd9-8012-c0315edbcaeb",
+        "offense_name_en": "Defective Helmet(Not Confirming BIS)",
+        "offense_section": "194D MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "4b4424ab-4f68-4440-b1f1-60b986d41065",
+        "offense_name_en": "Top Light Violation",
+        "offense_section": "108(1) CMVR/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "6bbb2ecf-bbcd-4589-bb7a-ea0ad1a94c77",
+        "offense_name_en": "W/o Reflector",
+        "offense_section": "104/177 MVA ACT",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "fe1c269f-7174-4c18-9f06-ed260b4c71be",
+        "offense_name_en": "Not using Seat-belt",
+        "offense_section": "194B MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "190776bd-c117-4ff0-b92c-5f8776141179",
+        "offense_name_en": "Disobeying Lawful Directions",
+        "offense_section": "179 MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "aea7dbf0-8ceb-4d22-896f-ddaed6e74ef1",
+        "offense_name_en": "Conductor Without License",
+        "offense_section": "129/182 MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "ea7e6ed2-8b4e-4c3b-9606-62c5b3a830c8",
+        "offense_name_en": "Driving without Helmet(Rider/Pillion Rider)",
+        "offense_section": "194D MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "e3f56e9f-c163-4494-9a41-7d34da0adf43",
+        "offense_name_en": "Carrying A passenger on Goods Vehicle",
+        "offense_section": "184 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "a1dee089-6038-475e-8074-17fb95e2a747",
+        "offense_name_en": "Carrying Goods on Passenger Vehicle",
+        "offense_section": "DMVR 84(4)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "1dcfe182-6913-4a58-a4a7-ed556242204d",
+        "offense_name_en": "W/o RUPD",
+        "offense_section": "CMVR 124.1/190.2 MVAct.",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "e7a8f68e-b772-4ead-b4a4-62cd0c6eed6c",
+        "offense_name_en": "W/o LUPD",
+        "offense_section": "CMVR 124.1/190.2 MVAct.",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "3e9d0262-ac0c-45e9-a88a-a74778c900b3",
+        "offense_name_en": "Violation of Yellow Line",
+        "offense_section": "119/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "4e16ece5-3c31-4b60-bdd3-a3f04d0bfc01",
+        "offense_name_en": "Conductor Without Badge",
+        "offense_section": "DMVR 22(1)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "c3f26145-be4b-4b6e-b1cc-9fbc1878f604",
+        "offense_name_en": "Conductor Without Uniform",
+        "offense_section": "DMVR 23(1)/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "4c8250eb-8a6c-4fd6-b2dd-ab6cbd7caf60",
+        "offense_name_en": "Not carrying animals as per provision 125E(2) CMVR 1989",
+        "offense_section": "125E CMVR/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "e7f653cc-4c91-4c50-819d-c37b12a0e390",
+        "offense_name_en": "Smoking by Driver/Conductor",
+        "offense_section": "DMVR 11.2/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "be24fc83-52db-4687-919a-91f3ba77b94d",
+        "offense_name_en": "Permit Violation",
+        "offense_section": "66(1)/192A MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "1de73f11-4bd7-49ed-b8f1-182fcd74f8a4",
+        "offense_name_en": "SC Violation",
+        "offense_section": "66.1/192A MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "f09fdedc-77a1-42ee-b2f3-dd7754fc92f9",
+        "offense_name_en": "Plying JUGAD",
+        "offense_section": "39/192/207 MVAct 1988",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "d2fa444b-5692-432e-bbec-44280fe54cee",
+        "offense_name_en": "Touting",
+        "offense_section": "93 MVA/193 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "fd6a5f3a-ee92-4589-9a82-a27207851deb",
+        "offense_name_en": "Dangerous Goods By common carrier",
+        "offense_section": "3/18(1),13/18(1),14/18(1) CRA 2007",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "c3af964e-67c2-4aab-bb72-594d3f7808fe",
+        "offense_name_en": "Driving Without License",
+        "offense_section": "3/181 MVA",
+        "fine": "5000",
+        "repetitive_fine": "5000"
+    },
+    {
+        "id": "14a8ece3-9361-4be2-91af-6dc724aa1582",
+        "offense_name_en": "Allowing Unauthorized Person To Drive",
+        "offense_section": "5/180 MVA",
+        "fine": "5000",
+        "repetitive_fine": "5000"
+    },
+    {
+        "id": "a59624ab-ea6d-4c0b-8f7d-82efe4360b20",
+        "offense_name_en": "Use of Hand-Held  Communication  Devices While    Driving",
+        "offense_section": "184 M.V.A",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "f862d1da-d4ef-4b37-b8ec-047aad7bba03",
+        "offense_name_en": "Violation of Restriction of Time(NO ENTRY)",
+        "offense_section": "115/194(1) M.V.Act 1988",
+        "fine": "20000",
+        "repetitive_fine": "20000"
+    },
+    {
+        "id": "052243d0-4214-41cf-8b6a-37f9a523832c",
+        "offense_name_en": "Trucks carrying sand/dust without covering(No Entry)",
+        "offense_section": "115/194(1) M.V.Act1988",
+        "fine": "20000",
+        "repetitive_fine": "20000"
+    },
+    {
+        "id": "2ce04a76-9cfb-47d9-985d-17bc46ba42c7",
+        "offense_name_en": "Misbehavior with Police Officer",
+        "offense_section": "179 MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "aa4e04b1-47c6-4ae7-816a-1fcd4913f48b",
+        "offense_name_en": "W/O Insurance",
+        "offense_section": "146/196 MVA",
+        "fine": "2000",
+        "repetitive_fine": "4000"
+    },
+    {
+        "id": "f2ce1909-2b4a-4306-a697-117de9f39ceb",
+        "offense_name_en": "Driving Dangerously",
+        "offense_section": "184 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "e84cad15-211b-4a54-87fe-cf9feac327ce",
+        "offense_name_en": "W/O PUCC",
+        "offense_section": "115 CMVR/190(2) M.V.A",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "6e2bec8e-952d-45de-b0b4-ff81e93ccef5",
+        "offense_name_en": "Driving against the authorized flow of traffic",
+        "offense_section": "184 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "800360e6-070b-4d32-a957-1c243e4d865e",
+        "offense_name_en": "RC Violation",
+        "offense_section": "39/192 MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "1ece01fc-b815-46c1-925a-4d74491a8419",
+        "offense_name_en": "Defective/Fancy/Not displaying Number Plate",
+        "offense_section": "50,51 CMVR/39/192 MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "ff1cf82b-7f69-460a-a9c4-68b470edded7",
+        "offense_name_en": "Advertisements on Vehicle",
+        "offense_section": "DMVR 71.2/177 MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "940c1d6b-7710-4b02-8081-1e49e9547029",
+        "offense_name_en": "Drunken Driving",
+        "offense_section": "185 MVA",
+        "fine": "*Court challan",
+        "repetitive_fine": "*Court challan"
+    },
+    {
+        "id": "bd3a990d-6ae4-4112-a166-c8bd7f87c877",
+        "offense_name_en": "Over Speed LMV",
+        "offense_section": "112.1/183(1) MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "16f68a3a-1dc8-49ef-9616-fd24a85e6e42",
+        "offense_name_en": "Over Speed MMV/HTV",
+        "offense_section": "112.1/183(1) MVA",
+        "fine": "4000",
+        "repetitive_fine": "4000"
+    }
+]

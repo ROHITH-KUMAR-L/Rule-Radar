@@ -1,0 +1,849 @@
+[
+    {
+        "id": "fdf7bd54-5cf6-45c8-b1a2-d2f2aa904abb",
+        "offense_name_en": "Glass of the Wind Screen & Rear Window of Motor Vehicle Shall Allow Visual Transmission of Light Not Less Than 70 % & Glasses of Side Window Shall Be Such That The Visual Transmission of Light Is Not Less",
+        "offense_section": "100(2)CMVR/177MVA",
+        "fine": "50%",
+        "repetitive_fine": "50%"
+    },
+    {
+        "id": "372a4b03-82ad-4b36-89e7-b26274495f12",
+        "offense_name_en": "The Glass of Windscreen And Windows of Every Motor Vehicle Shall Be of Safety Glass Which Visual Transmission of Light Is Not Less Than 70%",
+        "offense_section": "100CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "94c116b7-7ed5-4aeb-b54b-142b6834b02e",
+        "offense_name_en": "Vehicle Not Fitted With Wiper Or Wiper Not Maintained In Good Working Condition",
+        "offense_section": "101CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "88a0c16b-dfd9-4bc1-8f4e-776a35a62171",
+        "offense_name_en": "Every Motor Vehicle Shall Be Fitted With Reflector.",
+        "offense_section": "104CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "46ba77c5-1d0a-45b0-bf20-11405bfb33b2",
+        "offense_name_en": "Non-display of Obligatory Light or Driving Without Obligatory Light",
+        "offense_section": "105CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "b462ce64-8765-4f8e-9b48-676c1e01bd60",
+        "offense_name_en": "Garage Register",
+        "offense_section": "106WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "cfcebd6f-7bd2-4d44-9130-540541f3483e",
+        "offense_name_en": "Vehicle Not Using Toplight In Night Or Using Toplight With Poor Visibility",
+        "offense_section": "107CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "3a37b479-f1c6-46e0-a685-370d8a3ec5fc",
+        "offense_name_en": "No Motor Vehicle Shall Show A Red Light In Front Or Light Other Than Red To The Rear , A Vehicle Carrying High Dignitaries As Specified By Central Govt. Or State Govt. From Time Or A Vehicle Escorting Such",
+        "offense_section": "108CMVR/177MVA",
+        "fine": "Vehicle",
+        "repetitive_fine": "Vehicle"
+    },
+    {
+        "id": "7e049e02-f1d8-49fa-bcd1-d66b2718fef6",
+        "offense_name_en": "No Spot Light Or Search Light Shall Be Carried On The Front of Any Vehicle Except In Exceptional Circumstances With The Prior Approval of The Registering Authority",
+        "offense_section": "111CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "627218f2-2d82-4299-9fed-c582d1ba1dd9",
+        "offense_name_en": "(PRIVATE CAR, TWO WHEELER, AUTO ) Driving Vehicle At Excessive Speed. (Private Car, Two Wheeler & Auto)",
+        "offense_section": "112/183(1)MVA",
+        "fine": "1000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "276c2d60-3717-441f-97d1-4b47594ff9ea",
+        "offense_name_en": "(BUS,HGV,MGV) Driving Vehicle At Excessive Speed. (Bus, HGV & MGV)",
+        "offense_section": "112/183(1)MVA",
+        "fine": "2000",
+        "repetitive_fine": "4000"
+    },
+    {
+        "id": "c12c785e-2701-4934-a31e-866c87d67cfd",
+        "offense_name_en": "With Out Pollution Under Control Certificate",
+        "offense_section": "115(7)CMVR/179(1)MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "c1c29c24-ecf9-40c9-87fb-f4c3303503e4",
+        "offense_name_en": "Failed To Produce Valid PUC Within 7 Days From The Date of Issuance of Notice",
+        "offense_section": "116CMVR/190(2)MVA",
+        "fine": "2000",
+        "repetitive_fine": "5000 , 10000"
+    },
+    {
+        "id": "744e116f-acf0-47f4-b838-1f461c0652ff",
+        "offense_name_en": "Vehicle Not Fitted With Horn",
+        "offense_section": "119(1)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "49cc7d03-7db0-4386-906e-ca626fe5431c",
+        "offense_name_en": "Vehicle Fitted With Multi-Tuned Or Other Harsh Or Shrill Sounding Horns",
+        "offense_section": "119(2)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "5e7931da-169f-4c85-adb2-f3ee08f393a5",
+        "offense_name_en": "Vehicle Fitted With Multi-Tuned Or Other Harsh/Shrill Sounding Horn",
+        "offense_section": "119(2)CMVR/190(2)MVA",
+        "fine": "2000",
+        "repetitive_fine": "5000 , 10000"
+    },
+    {
+        "id": "560ddc14-0ca0-48f5-9e01-12753bce6418",
+        "offense_name_en": "Driving Vehicle In Violation of Mandatory Traffic Signals.",
+        "offense_section": "119MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "0bc90074-1db4-4f6b-aa22-0ec13be8d781",
+        "offense_name_en": "The Driver Will Only Charge The Approved Fare At The Rate As Per Meter Attached",
+        "offense_section": "120(1)(B)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "f8827c4e-e484-41c2-a8a5-bfeb1f549f93",
+        "offense_name_en": "Fare For Auto-Rickshaw Shall Be Fixed. Overcharging of Fare Shall Render The Permit To Be Suspended / Cancelled",
+        "offense_section": "120(4)(III)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "aed20454-d97c-43ba-85c6-dc7a17b10906",
+        "offense_name_en": "The Driver of Auto-Rickshaw Shall Not Misbehave Or Be Rude To The Passengers",
+        "offense_section": "120(4)(IV)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "f320a285-965b-4ce9-b136-379168ae24a4",
+        "offense_name_en": "Rude And Disorderly Behaviour",
+        "offense_section": "120(I)(A)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "3b4ea819-695e-4764-9f5b-768e568e4713",
+        "offense_name_en": "Leaving Vehicles In Such A Position, To Cause Or Likely To Cause Danger, Obstruction Or Undue Inconvenience To Any Road Users",
+        "offense_section": "122MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "7e28553f-dd1d-46f2-bd27-6986666a3006",
+        "offense_name_en": "The Driver And The Person Sitting At The Front of A Motor Vehicle (Engine Capacity Exceeding 500cc) Should Wear Seatbelt",
+        "offense_section": "125(1),138(3)CMVR/194(B)MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "241e0e56-b2b1-4fb7-93ff-d6f5215ef6d2",
+        "offense_name_en": "No Driver Shall Allow Any Person To Stand Or To Place Anything In Such A Manner Or Position As To Hamper The Driver In His Control of The Vehicle.",
+        "offense_section": "125MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "24c1125d-a8cc-4e2b-a4a3-894d1d2424c7",
+        "offense_name_en": "Allowing The Vehicle To Remain Stationary At Any Public Place.",
+        "offense_section": "126MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "33af971b-8ff6-45e7-98ef-8fba3e1b3381",
+        "offense_name_en": "Violation of Safety Measures For Motor Cycle Drivers And Pillion Riders",
+        "offense_section": "128MVA/194(C)MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "911e167a-2bd8-46f4-a57d-4b44cc3ac7bf",
+        "offense_name_en": "For Not Wearing of Protective Headgear",
+        "offense_section": "129MVA/194(D)MVA",
+        "fine": "1000",
+        "repetitive_fine": "1000"
+    },
+    {
+        "id": "24c2f894-37ca-40da-9011-42a7b351458b",
+        "offense_name_en": "MV (Driving) Regulation- 2017/177MVA Taking U-Turn Where U-Turn Is Specially Prohibited",
+        "offense_section": "Rule-8(3)",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "b79e8b7b-8dda-43ce-bc80-e09c92017f44",
+        "offense_name_en": "The Driver of A Motor Vehicle In Any Public Place Shall, On Demand By Any Police Officer In Uniform Produce His License For Examination.",
+        "offense_section": "130(1)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "dbba9958-589c-4683-8f14-bc8ed62d5575",
+        "offense_name_en": "The Conductor, If Any, of A Motor Vehicle In Any Public Place Shall On Demand By Any Officer of The Motor Vehicle Department Authorised In This Behalf, Produce The License For Examination.",
+        "offense_section": "130(2)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "e3ff93df-6c7c-4417-8735-936dcb5776c6",
+        "offense_name_en": "The Driver of A Motor Vehicle Produce The Certificate of Insurance And, Where The Vehicle Transport Vehicle Also The Certificate of Fitness Referred To In Sec 56 To The Officer Who Demand",
+        "offense_section": "130(3)MVA/177MVA",
+        "fine": "It.",
+        "repetitive_fine": "It."
+    },
+    {
+        "id": "93241bb9-134c-4cc2-b119-fae02701ee1a",
+        "offense_name_en": "If The License Referred To In Sub-Sec(2) Or The Permit Referred To In Sub-Sec(3), Person Required To Produce The Certificate of Registration Or The Certificate of Fitness of A Transport Vehicle.",
+        "offense_section": "130(4)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "c89c7e79-c59d-4801-9e9e-d25cfe02f036",
+        "offense_name_en": "Non Prodution of Other Documents (Except Driving Licence) On Demand By A Police Officer In Uniform",
+        "offense_section": "130(II)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "fd3bf554-4e43-49f6-af8b-4709aa38e03d",
+        "offense_name_en": "Not Insuring The Vehicle Against 3rd Party / Or Driving An Uninsured Vehicle.",
+        "offense_section": "146MVA/196MVA",
+        "fine": "2000",
+        "repetitive_fine": "4000"
+    },
+    {
+        "id": "3f2a14a7-49df-4fc4-87fe-1721023d4625",
+        "offense_name_en": "Non Production of Registration Certificate, Insurance Certificate, Fitness Certificate, Permit Etc. By The Driver of Transport Vehicle(In Case of Other Vehicles 15 Days Time For Production Should Be Given)",
+        "offense_section": "158(I)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "2e1ab9d9-fb00-4fb1-8472-23913afa9e5f",
+        "offense_name_en": "Non Production of Insurance Certificate (7 Days Time Should Be Given For Production of Such Document).",
+        "offense_section": "158(III)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "039c630e-6e3a-4327-a6fa-24baf8e461ba",
+        "offense_name_en": "Fares To Be Charged Shall Be In Conformity With The Fare Table",
+        "offense_section": "164WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "df01eb8d-2932-4229-be39-64aed59d5138",
+        "offense_name_en": "/177 MVA Smoking In Public Service Vehicles",
+        "offense_section": "172(5)WBMVR",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "75f1580d-e8af-4339-ba52-c0dbcab96198",
+        "offense_name_en": "Travelling Or Standing On Footboard of Stage Carriages.",
+        "offense_section": "177(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "a484fe25-7757-4ec4-8c00-f2a08c3c46cf",
+        "offense_name_en": "Holder of A Permit Or The Driver of Contract Carriage Shall Not Refuse To Ply The Contract Carriage Or To Carry The Passengers",
+        "offense_section": "178MVA/178(3)(A)MVA",
+        "fine": "500",
+        "repetitive_fine": "500"
+    },
+    {
+        "id": "e7c1ba85-c7e8-4511-b4bd-281a36e09a2c",
+        "offense_name_en": "Disobedience of Order & Obstruction.",
+        "offense_section": "179(1)MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "ae89f66e-ff8d-465f-bed5-a8df5836a1e4",
+        "offense_name_en": "Refusal of Information Or Wilfully Giving False Information.",
+        "offense_section": "179(2)MVA",
+        "fine": "2000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "fa751265-6668-409a-b67c-cf1613a5f941",
+        "offense_name_en": "Passengers Not To Be Carried On Certain Parts of The Vehicle",
+        "offense_section": "17RRT/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "8ec05f0b-f61a-4514-9747-369b8ce2c03b",
+        "offense_name_en": "6(1) MV (Driving) Regulation - 2017/177MVA Lane Changing Without Signal.",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "81df5495-5365-4123-89ef-7e7d53fa335c",
+        "offense_name_en": "Failing To Renewal of Driving Licence.",
+        "offense_section": "18(2)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "92843034-00d5-4e12-9ace-0f1458b714be",
+        "offense_name_en": "No Person Shall Be Carried In Any Goods Vehicle (In Addition To Goods Loaded Therein/On The Top of The Goods)",
+        "offense_section": "180(3)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "1b0a7f58-c615-49cd-973d-6e902ae9902e",
+        "offense_name_en": "Carriage of Animals Other Than The Transport Vehicles,So Specified.",
+        "offense_section": "181WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "45750de4-7898-45dd-a603-1b2f91f4a141",
+        "offense_name_en": "Offence Relating To Driver Licence Concealing Information",
+        "offense_section": "182(1)MVA/182(1)MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "cea91cd0-622b-49f2-9f22-de1f241b7b11",
+        "offense_name_en": "Stands And Halting Places",
+        "offense_section": "182WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "5c488c16-caeb-47df-a3a5-c33a4f7abd20",
+        "offense_name_en": "Driving Vehicle Dangerously. No Person Shall Use Earphone While Driving Any Motor Vehicles",
+        "offense_section": "184MVA/184MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "e53a63d1-75fa-464e-9686-2bb372421733",
+        "offense_name_en": "Driving When Mentally Or Physically Unfit To Drive.",
+        "offense_section": "186MVA/186MVA",
+        "fine": "1000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "e52afc51-d77b-48dd-9802-6d4ef3a0aabf",
+        "offense_name_en": "Racing In Public Place Without Permission From Authority Or State Govt. Taking Part In Race Or Trial of Speed of Any Kind Between Motor Vehicles At Any Public Place",
+        "offense_section": "189MVA/189MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "eb17482d-7fa8-47a9-abef-ead5d0f4f46c",
+        "offense_name_en": "Passenger Not To Be Carried On Outer Parts of The Vehicle.",
+        "offense_section": "18RRT/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "b5099669-1239-454e-866a-25fe1e525df5",
+        "offense_name_en": "Disqualified Person Holding Or Obtaining Licence.",
+        "offense_section": "19MVA/182(I)MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "572d8580-b714-49c0-9560-d3a9fe227f4e",
+        "offense_name_en": "Violation of Standards Prescribed For Road Safety Control of Noise & Air Pollution.",
+        "offense_section": "190(2)MVA/190(2)MVA",
+        "fine": "2000",
+        "repetitive_fine": "5000 , 10000"
+    },
+    {
+        "id": "35e7ac46-1624-4536-8ffa-84a93ff211c3",
+        "offense_name_en": "7 MV (Driving) Regulation- 2017/177MVA Stopping At Pedestrian Crossing Or Crossing The Stop Line",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "da4e6186-601f-40ee-b8c6-b8255c7fdf4c",
+        "offense_name_en": "Presumption of Unfitness To Drive (If Punishable Us 185MVA And The Accused Refused For His Breath/Blood Test)",
+        "offense_section": "205(I)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "9f64ab59-0202-456b-85c4-6ad73a306a8e",
+        "offense_name_en": "Driver of A Motor Vehicle Shall Slow Down The Speed When Approaching A Road",
+        "offense_section": "21(1)(F)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "4f60af25-998c-4748-ab4a-e1ad80397703",
+        "offense_name_en": "Carrying Person In Goods Carriage Inside The Driver'S Cabin In Excess of Its Capacity Or On The Vehicle, Whether For Hire Or Not.",
+        "offense_section": "21(10)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "0e8d68ba-c495-496d-a1ad-c2e53e9b1c16",
+        "offense_name_en": "Not Stopping A Stage Carriage At Approved Stopping Places",
+        "offense_section": "21(19)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "36c50115-6f17-4d77-abef-1a58b537315a",
+        "offense_name_en": "Vehicle Not Fitted With Rear View Mirror.",
+        "offense_section": "217WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "cdded72a-6e24-4b66-8d98-44d8bd96567d",
+        "offense_name_en": "Prohibition In Playing of Radio Etc.In A Motor Vehicle.",
+        "offense_section": "218(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "102709fa-7e90-40cf-b61e-a8ef5585f200",
+        "offense_name_en": "Prohibition of Playing of Radio/ Mobile Phone Etc. In A Motor Vehicle In The City Or Any Municipality Area.",
+        "offense_section": "218(3)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "60d86e7e-1b76-4cd9-aa8f-ee516ebfcbe6",
+        "offense_name_en": "Prohibition of Playing of Radio, Video, Gramophone, Microphone Or Cassette Recorder In A Motor Vehicle To Display An Object On The Screen With Or Without Provision For Amplification of Any Sound Or",
+        "offense_section": "218(4)WBMVR/177MVA",
+        "fine": "Voice",
+        "repetitive_fine": "Voice"
+    },
+    {
+        "id": "3ee3ec9d-c9c3-43fb-8025-8e05856ec3d8",
+        "offense_name_en": "Dangerous Projection",
+        "offense_section": "219(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "418e27e2-74d0-4a4c-9722-72d33889c876",
+        "offense_name_en": "23 MV (Driving) Regulation- 2017/177MVA Use of Horn Unnecessarily Or Needlessly To Ensure Safety In No Horn Zone Or Silence Zone",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "35970486-a1c8-4425-9ba0-b51f1d6b1182",
+        "offense_name_en": "12 MV(Driving) Regulation- 2017/177MVA Jumping Signal",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "65b58f1d-c2be-44c9-a48d-5540c4048914",
+        "offense_name_en": "Sounding Horn In No Horn Area",
+        "offense_section": "220WBMVR/194(F)MVA",
+        "fine": "1000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "5eedc8c2-55b8-4949-bf52-1ed0a2f4b608",
+        "offense_name_en": "No Part of The Vehicle Except Mirror & Indicator Shall Project Laterly More Than 36 Cm/15cm Beyond Central Line of Rear Wheels In Case of Single Wheel /Dual Wheel Vehicle",
+        "offense_section": "229WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "c9559f1c-5f9a-4ba7-b7e4-7278a6cf1a05",
+        "offense_name_en": "Driver Does Not Wear Uniform Or The Uniform Is Not Clean And Tidy",
+        "offense_section": "22(h)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "edc78424-6ee1-471c-aceb-f7e405e03fd5",
+        "offense_name_en": "Shall Not Refuse To Accept A Passenger For Hire",
+        "offense_section": "23(I)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "e6c8272d-be2f-4ffd-a26d-87aa57086543",
+        "offense_name_en": "Refusal To Ply Contract Carriage By Means of Refusal To Carry Passengers",
+        "offense_section": "23(I)WBMVR/178(3)(B)MVA",
+        "fine": "500",
+        "repetitive_fine": "500"
+    },
+    {
+        "id": "2e07171a-259a-44ef-ab2d-c88d3283d5b8",
+        "offense_name_en": "Failing To Proceed To The Destination By Shortest And Quickest Route",
+        "offense_section": "23(II)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "10a119ad-0539-4edb-86d5-487bb9ebbb3a",
+        "offense_name_en": "Fare Meter Not In Motion",
+        "offense_section": "23(III)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "0f8866dd-27a2-415b-8522-b03326177af0",
+        "offense_name_en": "No Person Other Than The Driver Can Be Employed As An Attendant In Any Taxi Registered In Calcutta Except Between 8 P M To 5 A M",
+        "offense_section": "23(IV)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "f807e716-a63c-4407-a312-d31d5172edc9",
+        "offense_name_en": "Rude / Misbehave with a Passenger",
+        "offense_section": "23(V)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "6851e27b-7f0d-421d-9cb0-641a40231c8d",
+        "offense_name_en": "Violation of Provision of Uniform,Conduct Etc For Drivers of Meterless Taxis",
+        "offense_section": "24(2)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "455d6388-be22-42f8-8976-9928ae7029cc",
+        "offense_name_en": "Every Public Service Vehicle Shall At All Times Be Equipped With Not Less Than One Spare Wheel Or Rim Fitted With A Pneumatic Tyre In Good And Sound Condition Readily Inflated,And Mounted In Such Away",
+        "offense_section": "250(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "c71a6edc-c991-4294-bb95-c7e216b0c84b",
+        "offense_name_en": "The Stage Carriage Displaying A Token To Be Issued By Registering Authority Which Will Be Indicate That The Vehicle With Advertisement Operator Under The Permission Given By Registering Authority",
+        "offense_section": "251(B)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "a7c6f72f-58bb-44fb-ae34-30d5c6ab5a2d",
+        "offense_name_en": "Taxi Must Be Fitted With Approved Taxi Meter",
+        "offense_section": "262WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "3293abae-de08-4df9-81f0-2671a32e1fa1",
+        "offense_name_en": "Taxi Driver Not Possessing The Taxi Meter,Testing Register And On Demand By Any Police Officer, Falling To Produce The Same.",
+        "offense_section": "266WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "2d87c860-3245-4b27-aad0-3bead22f226e",
+        "offense_name_en": "No person shall act as a conductor of a stage carriage unless he holds an effective conductor’s licence issued to him",
+        "offense_section": "29(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "4e59aa0b-16a3-48f1-a34b-529f8bb824ff",
+        "offense_name_en": "Obstruction By Driver On Foot-Way",
+        "offense_section": "291(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "f6fc1844-5521-4eba-9a8f-cab2f0e01dc1",
+        "offense_name_en": "To Cause Danger By Extending To The Rear of Vehicle Exceeding 122 Cm",
+        "offense_section": "292(2)(III)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "3b780631-6c78-49a2-9479-cec724631c07",
+        "offense_name_en": "Driving Motor Vehicle Which Is Loaded In Height By A Distance Which Exceeds 335 Cm (In Case of A Three Wheeler 180 Cm)",
+        "offense_section": "292(2)(IV)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "dbf16209-f6cb-42ae-b39f-aaff117fad06",
+        "offense_name_en": "Projections of Loads - Driving Motor Vehicle Which Is Loaded In A Manner Likely To Cause Danger Or In Such Manner That The Load Or Any Part There of Or Any Thing Extends",
+        "offense_section": "292(2)IWBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "933c154c-3b27-43d0-ad59-c51ea5ab8a93",
+        "offense_name_en": "No Driver of A Motor Vehicle Shall Sound The Horn Or Other Run Device For Giving Audible Warning",
+        "offense_section": "294(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "eb46f9a2-a64b-415d-aa8b-c4c7900294ee",
+        "offense_name_en": "Prohibition of The Use of Any Horn, Gong Or Other Device For Giving Audible Warning By Drivers of Motor Vehicles",
+        "offense_section": "294(2)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "045ee634-f8a5-4237-8666-3bb6b914b30f",
+        "offense_name_en": "Driving Two Wheeler Without ISI Mark Helmet",
+        "offense_section": "297WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "619d3398-b562-47ab-b94a-3aa26d393efd",
+        "offense_name_en": "Violation On The Restriction of Using Dazzling Light.",
+        "offense_section": "299(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "77d8ca89-a5ad-4b63-8c77-d129d9f013ce",
+        "offense_name_en": "35 MV (Driving) Regulation- 2017/177MVA Projections of Loads. -No Penson Shall Drive In Any Public Place Any Motor Vehicle Which Is Loaded In A Manner Likely To Cause Danger To Any Person.",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "8bd4799c-99b9-44cc-8417-254204389aea",
+        "offense_name_en": "A New Vehicle Should Be Affixed The Letter \"L\" In Red On White Background,On A Plate Or A Card In The Front And Rear of The Vehicle",
+        "offense_section": "3(C)/CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "09e18532-93ca-4d71-80e2-5c9dc3b2f5c1",
+        "offense_name_en": "Driving Vehicle Without Driving Licence",
+        "offense_section": "3(I)MVA/181MVA",
+        "fine": "5000",
+        "repetitive_fine": "5000"
+    },
+    {
+        "id": "b354e3a9-4bb3-4796-92ef-fc2e8982d885",
+        "offense_name_en": "Visibility of Lamps And Registration Marks",
+        "offense_section": "300(1)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "2bba9db2-9c85-4517-8ec5-dcfbcaa8ff41",
+        "offense_name_en": "Stop Line Violation",
+        "offense_section": "301WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "6e27358b-ed2b-4e90-9941-3a84b71c6fd9",
+        "offense_name_en": "Centre Line Violation.",
+        "offense_section": "316(3)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "9ec14f03-9108-44db-8c01-a069b3c2169d",
+        "offense_name_en": "Special Rules In Respect of Vehicles Carrying High Dignitaries",
+        "offense_section": "318(2)WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "ee89badd-fa5b-4dcc-9455-a5ceb3d1c3c5",
+        "offense_name_en": "Double Line Parking of Vehicle Is Prohibited While Loading Or Unloading of Goods,Parking Should Be Parallel To Curb In A Single Line",
+        "offense_section": "31RRT/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "86e10067-efed-4aa6-ab13-6dd177173cce",
+        "offense_name_en": "A Licensing Authority Refuse To Issue Or Renew Or Revoke Any Conductors License,It Shall Do So By An Order Communicated To The Applicant",
+        "offense_section": "33(1)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "9a25f128-b472-4009-a133-8c30f71959a6",
+        "offense_name_en": "Conductor of Stage Shall Carry His Licence.",
+        "offense_section": "38WBMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "6d934a69-eb73-422b-802a-693c29060167",
+        "offense_name_en": "4 MV (Driving) Regulation- 2017/177MVA The Driver of A Motor Vehicle Shall Drive As Close When Turning To Left & Right Side of The Road Which He Is Entering.",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "9a8db706-3629-4721-bf88-62c939d2e6f2",
+        "offense_name_en": "Driver Shall Keep In One Line Only And Shall Not Attempt To Pass One Another.",
+        "offense_section": "3RRT/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "84fff668-1398-4101-9110-a4c2196497ff",
+        "offense_name_en": "Driving Vehicle Below Prescribed Age of 16 Years For Motor Cycle & 18 Years For Other Vehicles.",
+        "offense_section": "4MVA/181MVA",
+        "fine": "5000",
+        "repetitive_fine": "5000"
+    },
+    {
+        "id": "628e2c5d-6bb5-4a59-b40d-c651c059f2b7",
+        "offense_name_en": "Owner Allowing Others To Drive The Vehicle Without Proper Driving Licence .",
+        "offense_section": "5MVA/180MVA",
+        "fine": "5000",
+        "repetitive_fine": "5000"
+    },
+    {
+        "id": "932fb4a1-34ff-4568-aacc-eb18b6dd9f13",
+        "offense_name_en": "Prosecution Against Dazzling/Aluminium Number Plate",
+        "offense_section": "50(II)(D)(B)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "9b5c8ff1-71a7-4a62-b362-abd6a4b33a00",
+        "offense_name_en": "Size of Letters And Numerals of The Registration Mark",
+        "offense_section": "51CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "dba1d6a2-08e8-4777-8204-7e7f8df2ff6e",
+        "offense_name_en": "Driving Vehicle Without Certificate of Fitness Or Invalid C.F.",
+        "offense_section": "56MVA/192MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "9cdc8699-f2e2-4b9d-b914-f88cb1df5f45",
+        "offense_name_en": "Driving Vehicle Without Permit Or In Contravention of The Condition of Permit",
+        "offense_section": "66(1)MVA/192A(1)MVA",
+        "fine": "10000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "253d908a-d5bf-4521-b7e3-630deec59694",
+        "offense_name_en": "14 MV (Driving) Regulation- 2017/177MVA Overtaking Dangerously",
+        "offense_section": "Rule",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "19e4dd25-a440-4b37-addf-3e11393c82a9",
+        "offense_name_en": "Defective Number Plate In Motor Vehicles",
+        "offense_section": "77(1)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "d12bd8c1-5e9c-4c76-b0d7-353450de596a",
+        "offense_name_en": "Registration Mark Shall Be In English Letters & Arabic Numerals",
+        "offense_section": "77(2)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "5d5e7acd-45be-484c-bab1-72c2b0219698",
+        "offense_name_en": "Driving Motor Vehicle With Defective Tyres",
+        "offense_section": "94(2)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "2d061aeb-a5de-4220-9b8a-d6dc54123a75",
+        "offense_name_en": "Using Vehicle Without Required Brakes.",
+        "offense_section": "96(1)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "5839ff00-f39b-480d-b833-1f678c9e6386",
+        "offense_name_en": "Using Vehicle With Brake Not Maintained In Good Condition(Defective Brakes)",
+        "offense_section": "96(2)CMVR/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "898d1ca9-d6b1-4ffa-8886-9a4b687a70e9",
+        "offense_name_en": "Vehicle Not Used at Maidan",
+        "offense_section": "96RRT/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "579a6191-3f75-45ed-ba2e-f59eb99911f2",
+        "offense_name_en": "Parking On Pavement",
+        "offense_section": "97RRT/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "1f2fea28-f260-4d0a-8c41-48e53af89be4",
+        "offense_name_en": "Preparation And Publication of Proposal Regarding Road Transport Service of A State Transport Undertaking.",
+        "offense_section": "99(1)MVA/177MVA",
+        "fine": "500",
+        "repetitive_fine": "1500"
+    },
+    {
+        "id": "411663e8-957d-4654-a2e0-bb0826f02b65",
+        "offense_name_en": "Driving vehicle without registration or in contravention of the condition of Blue Book",
+        "offense_section": "39MVA/192MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "46ccac15-1795-47b4-92aa-13d040d3449f",
+        "offense_name_en": "Any person who drives in any public place a motor vehicle where the vehicle has any defect which is calculated to render the driving of the vehicle a source of danger. (*In case of damage to property imprisonment for a term which may extend to 3 months)",
+        "offense_section": "190(1)MVA/190(1)MVA",
+        "fine": "5000",
+        "repetitive_fine": "10000"
+    },
+    {
+        "id": "8ddc13e5-bfc5-4a29-86d2-d3c7eb17ca52",
+        "offense_name_en": "MVA Motor cycle or two-wheelers, not registered as transport vehicle, will not be allowed to be on-board.",
+        "offense_section": "93/193",
+        "fine": "1000",
+        "repetitive_fine": "2000"
+    },
+    {
+        "id": "8bd186ad-0f2d-464a-b1ae-3247308b65d6",
+        "offense_name_en": "Taking and driving vehicle without consent of owner or lawful authority. 5000 5000 Updated on",
+        "offense_section": "197(1)/197(1)MVA",
+        "fine": "28.10.2024",
+        "repetitive_fine": "28.10.2024"
+    }
+]

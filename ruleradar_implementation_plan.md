@@ -112,7 +112,7 @@ rulerradar/
 
 ## 🗓️ 2-Week Implementation Plan
 
-### Week 1: Foundation, UI, and Core Logic (Days 1-7)
+### Foundation, UI, and Core Logic
 
 **Day 1-2: Setup & Base Architecture**
 - Initialize Vite React project.
@@ -143,7 +143,7 @@ rulerradar/
 
 ---
 
-### Week 2: Backend, Polish, and Production Readiness (Days 8-14)
+### Backend, Polish, and Production Readiness
 
 **Day 8-9: Supabase Integration**
 - Set up Supabase project (using the guide above).

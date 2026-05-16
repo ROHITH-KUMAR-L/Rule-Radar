@@ -173,7 +173,3 @@ rulerradar/
 - **Milestone:** LIVE production URL ready for judges.
 
 ---
-
-## 🚀 Next Steps
-
-Whenever you are ready, we can begin **Phase 1: Project Setup**. I will run the terminal commands to initialize the Vite project, install dependencies (Leaflet, Tailwind, shadcn/ui, Zustand, Turf.js, i18next), and set up the initial folder structure.
